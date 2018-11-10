@@ -3,6 +3,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="notifications/notifications-style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <title>CODJAM-DOM</title>
 </head>
 <body>
@@ -48,6 +50,33 @@
                 <li>Maecenas id justo ac ligula rhoncus mollis quis a elit.</li>
             </ul>
         </p>
+    </div>
+    <div class="notifer">
+        <button class="close fas fa-times"></button>
+        <label class="checkbox"><input type="checkbox" id="disnotifer"> Disable Tips</label> 
+        <div class="controls">
+            <button class="arrow fas fa-chevron-circle-left"></button>
+            <ul class="navdots">
+                <li class="dotarea"><i class="dot"></i></li>
+                <li class="dotarea"><i class="dot"></i></li>
+                <li class="dotarea"><i class="dot"></i></li>
+                <li class="dotarea"><i class="dot"></i></li>
+            </ul>
+            <button class="arrow fas fa-chevron-circle-right"></button>
+        </div>
+        <div class="tipcontainer">
+            <h2>email tip of the day</h2>
+            <div class="tip active" id="tip1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Suspendisse turpis enim, dapibus in libero vitae,
+                tempor ornare massa. Morbi feugiat congue nisl,
+                elementum hendrerit elit elementum vel.
+                Nullam vel faucibus velit.
+            </div>
+            <div class="tip" id="tip2">tip2</div>
+            <div class="tip" id="tip3">tip3</div>
+            <div class="tip" id="tip4">tip4</div>
+            <div class="tip" id="tip5">tip5</div>  
+        </div>  
     </div>
 </body>
 </html>
