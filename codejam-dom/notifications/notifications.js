@@ -74,7 +74,7 @@ function dotClick (event) {
 }
 
 function close () {
-    activate(notificator);
+    if (notificator.classList.contains("active")) activate(notificator);
 }
 
 function toogleNotifer () {
@@ -86,6 +86,21 @@ function toogleNotifer () {
 
 function showNotification () {
     if (!localStorage.getItem("disableNotification")) activate(notificator);
+}
+
+function keybordControl (event) {
+    let key = event.keyCode;
+    switch (key) {
+        case 37:
+          previous ();
+          break;
+        case 39:
+          next ();
+          break;
+        case 27:
+          close ();
+          break;
+      }
 }
 
 let notificator = document.querySelector(".notifer");
@@ -101,4 +116,5 @@ closebtn.addEventListener("click",close);
 navdots.addEventListener("click", dotClick);
 checkBox.addEventListener("change", toogleNotifer);
 document.addEventListener("DOMContentLoaded", ()=>setContent (tipMassive));
-document.addEventListener("DOMContentLoaded", setTimeout(()=>showNotification(),1));
+document.addEventListener("keyup", keybordControl);
+document.addEventListener("DOMContentLoaded", setTimeout(()=>showNotification(), 5000));
