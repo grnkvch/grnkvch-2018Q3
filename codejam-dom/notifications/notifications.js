@@ -1,8 +1,15 @@
 let tipMassive = ["Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "Suspendisse turpis enim, dapibus in libero vitae, tempor ornare massa.",
+                "Donec eget velit eu sem consectetur molestie ut ut eros. Cras ut sapien sed nisi placerat vestibulum sit amet vel justo. Proin facilisis lorem vitae maximus vulputate. Aliquam suscipit mi nec eros dictum tempus. Praesent viverra mi nec viverra ultricies.",
                 "Morbi feugiat congue nisl, elementum hendrerit elit elementum vel.", 
-                "Nullam vel faucibus velit."];
-let tipCount = tipMassive.length;
+                "Nullam vel faucibus velit.",
+                "Cras ut sapien sed nisi placerat vestibulum sit amet vel justo.",
+                "Proin facilisis lorem vitae maximus vulputate.",
+                "Aliquam suscipit mi nec eros dictum tempus.",
+                "Praesent viverra mi nec viverra ultricies.",
+                "Nunc vel mi a leo tristique molestie.",
+                "Pellentesque commodo felis sagittis, pellentesque ante vitae, scelerisque lectus."];
+
+let tipCount = tipMassive.length > 9 ? 9 : tipMassive.length;
 
 function activate (elem) {
     elem.classList.toggle("active");
