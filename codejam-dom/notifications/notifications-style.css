@@ -1,6 +1,9 @@
 .notifer, .notifer * {
     margin: 0;
     padding: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }
 
 .notifer{
@@ -13,6 +16,11 @@
     position: fixed;
     top: 10px;
     right: 10px;
+    display: none;
+}
+
+.active {
+    display: block;
 }
 
 .tipcontainer {
@@ -25,6 +33,7 @@
     margin: 5px;
     border: 1px solid #b8b8b8;
     overflow: auto;
+    padding: 5px;
 }
 
 .tipcontainer h2 {
@@ -33,9 +42,15 @@
     font-size: 15px;
     margin: 0 0 5px 0;
     text-transform: uppercase;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
 }
 
 .tip {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
     display: none;
 }
 
@@ -59,11 +74,17 @@
     display: inline-block;
 }
 
+.dot.active {
+    background-color:#92ddff;
+    background-color: #92ddffce;
+}
+
 .dotarea {
     display: inline-block;
 }
 
 .dotarea:hover .dot {
+    background-color:#92ddff;
     background-color: #92ddffce;
 }
 
@@ -76,10 +97,12 @@
     border: none;
     outline: 0;
     font-size: 15px;
+    color: #474747;
     color: #00000065;
 }
 
 .close:hover {
+    color: #a75555;
     color: #ff323265;
 }
 
@@ -89,11 +112,13 @@
     border: none;
     outline: 0;
     font-size: 20px;
+    color: #b9b9b9;
     color: #00000036;
     line-height: 20px;
 }
 
 .arrow:hover {
+    color: #a1cbdf;
     color: #92ddffce;
 }
 
@@ -124,27 +149,27 @@
     height:0px
     }
     
-    .notifer ::-webkit-scrollbar-track {
+.notifer ::-webkit-scrollbar-track {
     background-color:#ecedee
-    }
+}
     
-    .notifer ::-webkit-scrollbar-thumb {
+.notifer ::-webkit-scrollbar-thumb {
     -webkit-border-radius: 0px;
     border-radius: 0px;
     background-color:#bebebe;
-    }
+}
     
-    .notifer ::-webkit-scrollbar-thumb:hover{
+.notifer ::-webkit-scrollbar-thumb:hover{
     background-color:#8b8b8b;
-    }
+}
     
-    .notifer ::-webkit-resizer{
+.notifer ::-webkit-resizer{
     background-image:url('');
     background-repeat:no-repeat;
     width:4px;
     height:0px
-    }
+}
     
-    .notifer ::-webkit-scrollbar{
+.notifer ::-webkit-scrollbar{
     width: 4px;
-    }
+}
