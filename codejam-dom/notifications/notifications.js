@@ -10,7 +10,7 @@ function activate (elem) {
 
 function setContent (tipMassive) {
     let dotList = document.querySelector(".notifer .navdots");
-    let tipList = document.querySelector(".tipcontainer");
+    let tipList = document.querySelector(".notifer .tipcontainer");
 
     for (let i=0; i<tipCount; i++) {
         let dotElemArea = document.createElement("li");
@@ -36,9 +36,9 @@ function next () {
     let currElems = document.querySelectorAll(".notifer .active");
     let currElemIndex = parseInt(currElems[0].getAttribute("number"));
     if (currElemIndex<tipCount-1) {
-        var nextElems = document.querySelectorAll('[number="'+(currElemIndex+1)+'"]');
+        var nextElems = document.querySelectorAll('.notifer [number="'+(currElemIndex+1)+'"]');
     } else {
-        var nextElems = document.querySelectorAll('[number="'+(0)+'"]');
+        var nextElems = document.querySelectorAll('.notifer [number="'+(0)+'"]');
     } 
     switchTips(currElems, nextElems);
 }
@@ -47,9 +47,9 @@ function previous () {
     let currElems = document.querySelectorAll(".notifer .active");
     let currElemIndex = parseInt(currElems[0].getAttribute("number"));
     if (currElemIndex>0) {
-        var nextElems = document.querySelectorAll('[number="'+(currElemIndex-1)+'"]');
+        var nextElems = document.querySelectorAll('.notifer [number="'+(currElemIndex-1)+'"]');
     } else {
-        var nextElems = document.querySelectorAll('[number="'+(tipCount-1)+'"]');
+        var nextElems = document.querySelectorAll('.notifer [number="'+(tipCount-1)+'"]');
     }
     switchTips(currElems, nextElems);
 }
@@ -65,7 +65,7 @@ function dotClick (event) {
         if (target.tagName == 'LI') {
             let currElems = document.querySelectorAll(".notifer .active");
             let nextElemIndex = parseInt(target.firstElementChild.getAttribute("number"));
-            let nextElems = document.querySelectorAll('[number="'+(nextElemIndex)+'"]');
+            let nextElems = document.querySelectorAll('.notifer [number="'+(nextElemIndex)+'"]');
             switchTips(currElems, nextElems);
             return
         }
@@ -77,15 +77,28 @@ function close () {
     activate(notificator);
 }
 
+function toogleNotifer () {
+    if (checkBox.checked) {
+    localStorage.setItem("disableNotification", "true")
+    }
+    else localStorage.removeItem("disableNotification");
+} 
+
+function showNotification () {
+    if (!localStorage.getItem("disableNotification")) activate(notificator);
+}
+
 let notificator = document.querySelector(".notifer");
-let closebtn = document.querySelector(".close");
-let leftarrow = document.querySelector(".arrow.left");
-let rightarrow = document.querySelector(".arrow.right");
-let navdots = document.querySelector(".navdots");
+let closebtn = document.querySelector(".notifer .close");
+let leftarrow = document.querySelector(".notifer .arrow.left");
+let rightarrow = document.querySelector(".notifer .arrow.right");
+let navdots = document.querySelector(".notifer .navdots");
+let checkBox = document.querySelector(".notifer .checkbox input");
 
 leftarrow.addEventListener("click", previous);
 rightarrow.addEventListener("click", next);
 closebtn.addEventListener("click",close);
 navdots.addEventListener("click", dotClick);
+checkBox.addEventListener("change", toogleNotifer);
 document.addEventListener("DOMContentLoaded", ()=>setContent (tipMassive));
-document.addEventListener("DOMContentLoaded", setTimeout(()=>activate(document.querySelector('.notifer')),5000));
+document.addEventListener("DOMContentLoaded", setTimeout(()=>showNotification(),1));
