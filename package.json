@@ -1,0 +1,25 @@
+{
+  "name": "daytipsnotification",
+  "version": "1.0.0",
+  "description": "show day tip notification",
+  "main": "index.html",
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/grnkvch-2018Q3.git"
+  },
+  "author": "Grinkevich V.V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/grnkvch-2018Q3/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/grnkvch-2018Q3#readme"
+}
