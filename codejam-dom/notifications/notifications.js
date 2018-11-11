@@ -67,5 +67,6 @@ let rightarrow = document.querySelector(".arrow.right");
 
 leftarrow.addEventListener("click", previous);
 rightarrow.addEventListener("click", next);
-document.addEventListener("DOMContentLoaded", setContent (tipMassive));
-document.addEventListener("DOMContentLoaded", activate(document.querySelector('.notifer')));
+closebtn.addEventListener("click",()=>activate(document.querySelector('.notifer')));
+document.addEventListener("DOMContentLoaded", ()=>setContent (tipMassive));
+document.addEventListener("DOMContentLoaded", setTimeout(()=>activate(document.querySelector('.notifer')),5000));
