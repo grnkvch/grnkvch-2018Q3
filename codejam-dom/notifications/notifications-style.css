@@ -17,6 +17,7 @@
     top: 10px;
     right: 10px;
     display: none;
+    z-index: 1031;
 }
 
 .active {
@@ -75,8 +76,7 @@
 }
 
 .dot.active {
-    background-color:#92ddff;
-    background-color: #92ddffce;
+    background-color: #00000036;
 }
 
 .dotarea {
@@ -84,8 +84,12 @@
 }
 
 .dotarea:hover .dot {
-    background-color:#92ddff;
+    cursor: pointer;
     background-color: #92ddffce;
+}
+
+.dotarea:hover {
+    cursor: pointer;
 }
 
 .close {
@@ -97,12 +101,11 @@
     border: none;
     outline: 0;
     font-size: 15px;
-    color: #474747;
     color: #00000065;
 }
 
 .close:hover {
-    color: #a75555;
+    cursor: pointer;
     color: #ff323265;
 }
 
@@ -112,13 +115,12 @@
     border: none;
     outline: 0;
     font-size: 20px;
-    color: #b9b9b9;
     color: #00000036;
     line-height: 20px;
 }
 
 .arrow:hover {
-    color: #a1cbdf;
+    cursor: pointer;
     color: #92ddffce;
 }
 
@@ -134,7 +136,7 @@
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
     left: 5px;
-    bottom: 5px;
+    bottom: 8px;
 }
 
 .checkbox input {
