@@ -1,11 +1,12 @@
-var webpack = require('webpack');
-var path = require('path');
+/* eslint-disable linebreak-style */
+let webpack = require('webpack');
+let path = require('path');
 
 module.exports = {
   mode: 'development',
   entry: './public/main.js',
   output: {
-    filename: 'build.js'
+    filename: 'build.js',
   },
   module: {
     rules: [
@@ -15,10 +16,10 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['@babel/preset-env']
-          }
-        }
-      }
-    ]
-  }
+            presets: ['@babel/preset-env'],
+          },
+        },
+      },
+    ],
+  },
 };
