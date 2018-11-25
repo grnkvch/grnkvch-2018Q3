@@ -2,7 +2,15 @@
   "name": "youtube_client",
   "version": "1.0.0",
   "description": "youtube search client",
-  "main": "scripts/main.js",
+  "main": "build.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^8.0.4",
+    "import-local": "^2.0.0",
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
