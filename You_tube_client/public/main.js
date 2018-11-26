@@ -31,4 +31,10 @@ window.addEventListener('resize', () => {
   timer = setTimeout(() => slider.pagination(true), 60);
 });
 
+window.addEventListener('deviceorientation', () => {
+  let timer;
+  if (timer) clearTimeout(timer);
+  timer = setTimeout(() => slider.pagination(true), 60);
+});
+
 document.addEventListener('click', clickEvent => slider.clickHandler(clickEvent));
