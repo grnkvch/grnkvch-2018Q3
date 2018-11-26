@@ -217,6 +217,7 @@ body {
 
 .pagination__dot.active {
   background-color: #ca4a4a;
+  position: relative;
 }
 
 .pagination__dot:hover {

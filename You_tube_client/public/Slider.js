@@ -79,15 +79,15 @@ export default class Slider {
       this.currentSlide = (this.currentPage - 1) * this.slidesPerPageCount + 1;
       const currentPos = (this.currentSlide - 1) * 250;
       this.slideBar.style.transform = `translateX(-${currentPos}px)`;
-      this.setActivePagePos();
+      this.setActivePagePos(onResize);
     }
   }
 
-  setActivePagePos() {
+  setActivePagePos(onResize) {
     const pageBarWidth = this.mainSection.querySelector('.pagination__dot-container').clientWidth;
     const currentPagePos = (this.currentPage - 1) * 40;
     const midPos = pageBarWidth / 2 - 20;
-    if (currentPagePos > this.pageBarRightLim || currentPagePos < this.pageBarLeftLim) {
+    if (currentPagePos > this.pageBarRightLim || currentPagePos < this.pageBarLeftLim || onResize) {
       this.pageBar.style.transform = `translateX(-${currentPagePos - midPos}px)`;
       this.pageBarRightLim = currentPagePos + midPos;
       this.pageBarLeftLim = currentPagePos - midPos;
