@@ -8,6 +8,7 @@ body {
 .result-table {
   border: 1px dashed #0F0;
   border-collapse: collapse;
+  width: 100%;
 }
 
 .result-table__table-data {
@@ -46,4 +47,9 @@ body {
   padding: 5px;
   min-width: 100%;
   min-height: 100%;
+}
+
+.chart-container {
+  width: 100%;
+  height: 400px;
 }

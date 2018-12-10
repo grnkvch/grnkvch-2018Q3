@@ -59,7 +59,7 @@ export default class SessionParser {
           tableMatrix[i].push(roundItem);
         });
         tableMatrix[i].push(item.totalTime);
-        tableMatrix[i].push(`<input type="checkbox">`);
+        tableMatrix[i].push(`<input type="checkbox" value="${i}">`);
       }
     });
     return tableMatrix;
