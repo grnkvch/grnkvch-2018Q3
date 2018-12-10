@@ -9,5 +9,18 @@ table, td, th {
   border: 1px dashed #0F0;
   border-collapse: collapse;
   padding: 5px;
-  
 }
+
+.session-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-height: 200px;
+  border: 1px dashed #0F0;
+  padding: 5px;
+}
+
+.session-container__session-items {
+  display: block;
+}
+

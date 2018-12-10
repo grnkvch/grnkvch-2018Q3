@@ -1,4 +1,4 @@
-let dataUsersRaw = [
+let dataUsers = [
   {
  '_id': { $oid: '5bfc37a47d53b900214ad01c' }, provider: 'github', uid: 'a58dc9923e939274', 'providerId': '669784', 'displayName': 'Alexander Gerasimov', '__v': 0
  },

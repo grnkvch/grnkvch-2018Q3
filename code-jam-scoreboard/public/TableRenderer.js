@@ -1,19 +1,21 @@
-<h1>Chart</h1>
-<table>
-  <tr>
-    <th>DisplayName Участника</th>
-    <th>${Название первого пазла}	</th>
-    <th>${Название второго пазла}</th>
-    <th>${и т.д.}</th>
-    <th>Общее время</th>
-    <th>Comparison</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-  </tr>
-</table>
+export default class TableRenderer {
+  render(tableMatrix) {
+    let table = null;
+    if (document.querySelector('.result-table')) {
+      table = document.querySelector('.result-table');
+      table.innerHTML = '';
+    } else{
+      table = document.createElement('table');
+      table.classList.add('result-table');
+      document.body.appendChild(table);
+    }
+
+    tableMatrix.forEach((element) => {
+      const tableRow = document.createElement('tr');
+      element.forEach((item) => {
+        tableRow.innerHTML += `<td>${item}</td>`;
+        table.appendChild(tableRow);
+      });
+    });
+  }
+}
