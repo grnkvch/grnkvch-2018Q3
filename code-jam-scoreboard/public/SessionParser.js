@@ -22,6 +22,7 @@ export default class SessionParser {
       let totalTime = 0;
       sessionData[activeSessionIndex].rounds.forEach((item, i) => {
         let time = 0;
+        userResult.rounds[i] = { time: 0, code: '' };
         if (item.solutions[key]) {
           if (item.solutions[key].correct === 'Correct') time = parseInt(item.solutions[key].time.$numberLong);
           else {
@@ -30,8 +31,9 @@ export default class SessionParser {
               .options.timeLimit.$numberLong);
           }
           totalTime += time;
-          userResult.rounds[i] = time;
-        } else userResult.rounds[i] = ' - ';
+          userResult.rounds[i].time = time;
+          userResult.rounds[i].code = item.solutions[key].code;
+        } else userResult.rounds[i].time = ' - ';
       });
       userResult.totalTime = totalTime;
       resultsArr.push(userResult);
