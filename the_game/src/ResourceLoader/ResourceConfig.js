@@ -54,17 +54,23 @@ const ResourceConfig = {
       tree: ['./src/assets/character_limbs/left_leg/left_leg_adventurer.svg'],
     },
   },
+  sounds: {
+
+  }
   themes: {
-    choco: [],
-    dirt: [],
-    grass: [],
-    metall: [],
-    purple: [],
-    sand: [],
-    snow: [],
-    tundra: [],
-    cake: [],
+    choco: {},
+    dirt: {},
+    grass: {},
+    metall: {},
+    purple: {},
+    sand: {},
+    snow: {},
+    tundra: {},
+    cake: {},
   },
+  positionRules: {
+    
+  }
 };
 
 export default ResourceConfig;

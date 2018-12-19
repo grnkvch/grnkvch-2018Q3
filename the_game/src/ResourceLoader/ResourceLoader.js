@@ -16,9 +16,7 @@ export default class ResourceLoader {
   }
 
   static loadSection(src, dst) {
-    const items = src;
-    const keys = Object.keys(items);
-    const length = keys.length;
+    const [keys, length] = [Object.keys(src), Object.keys(src).length];
     let promises = [];
     for (let i = 0; i < length; i += 1) {
       dst[keys[i]] = [];
@@ -30,16 +28,16 @@ export default class ResourceLoader {
     return promises;
   }
 
-  loaderManager(src) {
+  load(src) {
     let promises = [];
     if (src.images) {
       this.resoursesCache.images = Object.create(null);
-      const keys = Object.keys(src.images);
-      const length = keys.length;
+      const [keys, length] = [Object.keys(src.images), Object.keys(src.images).length];
       for (let i = 0; i < length; i += 1) {
         this.resoursesCache.images[keys[i]] = Object.create(null);
-        promises = promises.concat(ResourceLoader.loadSection(src.images.characterLimbs,
-          this.resoursesCache.images.characterLimbs));
+        promises = promises.concat(ResourceLoader.loadSection(src.images[keys[i]],
+          this.resoursesCache.images[keys[i]]));
+      }
     }
     return Promise.all(promises).then(() => this.resoursesCache);
   }
