@@ -47,7 +47,7 @@ export default class ActionDialog {
         if (e.keyCode === KeyCode.KEY_ESCAPE) {
           ActionDialog.hide();
           reject();
-          document.removeEventListener('keyup', listener);
+          document.removeEventListener('keyup', keyBoardListener);
         }
         if (e.keyCode === KeyCode.KEY_DOWN) {
           if (activeBtn.nextElementSibling) {
@@ -62,9 +62,9 @@ export default class ActionDialog {
         if (e.keyCode === KeyCode.KEY_SPACE
           || e.keyCode === KeyCode.KEY_RETURN || e.keyCode === KeyCode.ENTER) {
           const actionkey = activeBtn.getAttribute('actionkey');
-          this.resolve(actionkey);
+          resolve(actionkey);
           ActionDialog.hide();
-          document.removeEventListener('keyup', listener);
+          document.removeEventListener('keyup', keyBoardListener);
         }
       }
       this.content.addEventListener('click', (e) => {
@@ -73,9 +73,9 @@ export default class ActionDialog {
           resolve(actionkey);
           ActionDialog.hide();
         }
-        document.removeEventListener('keyup', ActionDialog.keyBoardListener);
+        document.removeEventListener('keyup', keyBoardListener);
       });
-      document.addEventListener('keyup', ActionDialog.keyBoardListener);
+      document.addEventListener('keyup', keyBoardListener);
     });
   }
 }

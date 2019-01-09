@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Aldrich');
+@import url('https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic');
 .arithmetic-task-screen *, .arithmetic-task-screen {
   box-sizing: border-box;
 }
 
 .arithmetic-task-screen{
-  font-family: 'Aldrich', sans-serif;
+  font-family: 'Russo One', sans-serif;
   color: white;
   padding: 5px;
   max-width: 600px;
@@ -37,7 +37,7 @@
   color: #fff;
   margin: auto;
   border-radius: 5px;
-  font-family: 'Aldrich', sans-serif;
+  font-family: 'Russo One', sans-serif;
   font-size: 1em;
   text-decoration: none;
   user-select: none;
@@ -57,7 +57,7 @@
 }
 
 .arithmetic-task-screen__input {
-    font-family: 'Aldrich', sans-serif;
+    font-family: 'Russo One', sans-serif;
     border: none;
     color: #549ae1;
     font-size: 1em;

@@ -39,7 +39,8 @@ export default class ScoreBoard {
       });
 
       function listener(e) {
-        if (e.keyCode === KeyCode.KEY_ESCAPE) {
+        if (e.keyCode === KeyCode.KEY_ESCAPE || e.keyCode === KeyCode.KEY_SPACE
+          || e.keyCode === KeyCode.KEY_RETURN || e.keyCode === KeyCode.ENTER) {
           resolve(isGameOver);
           ScoreBoard.hide();
           document.removeEventListener('keyup', listener);

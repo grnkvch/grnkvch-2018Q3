@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Aldrich');
+@import url('https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic');
 
 .home-screen{
+  font-family: 'Russo One', sans-serif;
   overflow: auto;
   margin: auto;
   padding: 10px;
@@ -9,7 +10,6 @@
 }
 
 .home-screen__header-1 {
-  font-family: 'Aldrich', sans-serif;
   font-size: 2em;
   text-align: center;
   text-transform: uppercase;
@@ -20,7 +20,6 @@
 }
 
 .home-screen__section {
-  font-family: 'Aldrich', sans-serif;
   font-size: 1em;
   display: flex;
   flex-direction: column;
@@ -43,11 +42,11 @@
 }
 
 .play-button {
+  font-family: 'Russo One', sans-serif;
   width: 150px;
   height: 70px;
   color: #fff;
   border-radius: 5px;
-  font-family: 'Aldrich', sans-serif;
   font-size: 1em;
   text-decoration: none;
   user-select: none;

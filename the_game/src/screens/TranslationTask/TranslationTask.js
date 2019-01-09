@@ -42,6 +42,7 @@ export default class TranslationTask {
         modal.removeEventListener('submit', listener);
       }
       modal.addEventListener('submit', listener);
+      modal.querySelector('.translation-task-screen__input').focus();
     });
   }
 }

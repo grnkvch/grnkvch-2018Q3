@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Aldrich');
+@import url('https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic');
 .scoreboard-screen *, .scoreboard-screen {
   box-sizing: border-box;
 }
 
 .scoreboard-screen{
-  font-family: 'Aldrich', sans-serif;
+  font-family: 'Russo One', sans-serif;
   color: white;
   padding: 5px;
   min-width: 500px;
@@ -18,7 +18,6 @@
 }
 
 .scoreboard-screen__header-1 {
-  font-family: 'Aldrich', sans-serif;
   font-size: 1.5em;
   text-align: center;
   text-transform: uppercase;
@@ -62,7 +61,7 @@
   height: 60px;
   color: #fff;
   margin: 15px auto;
-  font-family: 'Aldrich', sans-serif;
+  font-family: 'Russo One', sans-serif;
   font-size: 1em;
   text-decoration: none;
   user-select: none;

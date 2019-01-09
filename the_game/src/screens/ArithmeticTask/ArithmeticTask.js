@@ -42,6 +42,7 @@ export default class ArithmeticTask {
         modal.removeEventListener('submit', listener);
       }
       modal.addEventListener('submit', listener);
+      modal.querySelector('.arithmetic-task-screen__input').focus();
     });
   }
 }

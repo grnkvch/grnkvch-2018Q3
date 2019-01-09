@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Aldrich');
+@import url('https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic');
+
 .action-dialog-screen *, .action-dialog-screen {
   box-sizing: border-box;
 }
 
 .action-dialog-screen{
-  font-family: 'Aldrich', sans-serif;
+  font-family: 'Russo One', sans-serif;
   color: white;
   padding: 5px;
   max-width: 600px;
@@ -36,7 +37,7 @@
   height: 60px;
   color: #fff;
   margin: 15px;
-  font-family: 'Aldrich', sans-serif;
+  font-family: 'Russo One', sans-serif;
   font-size: 1em;
   text-decoration: none;
   user-select: none;
@@ -47,7 +48,7 @@
   border: 6px double white;
 } 
 
-.active {
+.action-dialog-screen__button.active {
   border: 6px double yellow;
 }
 
