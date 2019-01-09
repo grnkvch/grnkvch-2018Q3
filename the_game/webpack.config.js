@@ -6,7 +6,7 @@ module.exports = {
   entry: ['babel-polyfill', './src/app.js'],
   output: {
     filename: 'build.js',
-    path: `${__dirname}/dist`,
+    path: `${__dirname}`,
   },
   devtool: 'source-map',
   module: {
