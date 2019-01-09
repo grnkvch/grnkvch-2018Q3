@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic');
 
+a {
+  color: inherit;
+}
+
 .home-screen{
   font-family: 'Russo One', sans-serif;
   overflow: auto;
@@ -61,8 +65,36 @@
   color: #549ae1;
 }
 
+.home-screen__screenshot-section__wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.home-screen__screenshot-section__screenshot {
+  width: 40%;
+  margin: 15px;
+}
+
+.home-screen__credits-section__wrapper{
+  display: flex;
+  flex-direction: row;
+  
+  align-items: flex-start;
+}
+
+.home-screen__credits-section__author {
+  width: 200px;
+  height: auto;
+  margin: 15px;
+}
+
+
+
  @media (max-width: 600px) {
   .home-screen{
     font-size: 15px;
   }
 }
+
