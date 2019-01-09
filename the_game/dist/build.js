@@ -11116,10 +11116,10 @@ exports.push([module.i, ".modal-window__container {\r\n  position: fixed;\r\n  t
 
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Imports
-exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Press+Start+2P&subset=cyrillic);", ""]);
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic);", ""]);
 
 // Module
-exports.push([module.i, ".action-dialog-screen *, .action-dialog-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.action-dialog-screen{\r\n  font-family: 'Press Start 2P', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.action-dialog-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.action-dialog-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.action-dialog-screen__button {\r\n  width: 150px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: 15px;\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n  border: 6px double white;\r\n} \r\n\r\n.action-dialog-screen__button.active {\r\n  border: 6px double yellow;\r\n}\r\n\r\n.action-dialog-screen__button:hover { background: rgb(232,95,76); }\r\n.action-dialog-screen__button:active { background: rgb(152,15,0); }", ""]);
+exports.push([module.i, ".action-dialog-screen *, .action-dialog-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.action-dialog-screen{\r\n  font-family: 'Russo One', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.action-dialog-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.action-dialog-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.action-dialog-screen__button {\r\n  width: 150px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: 15px;\r\n  font-family: 'Russo One', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n  border: 6px double white;\r\n} \r\n\r\n.action-dialog-screen__button.active {\r\n  border: 6px double yellow;\r\n}\r\n\r\n.action-dialog-screen__button:hover { background: rgb(232,95,76); }\r\n.action-dialog-screen__button:active { background: rgb(152,15,0); }", ""]);
 
 
 
@@ -11134,10 +11134,10 @@ exports.push([module.i, ".action-dialog-screen *, .action-dialog-screen {\r\n  b
 
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Imports
-exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Aldrich);", ""]);
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic);", ""]);
 
 // Module
-exports.push([module.i, ".arithmetic-task-screen *, .arithmetic-task-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.arithmetic-task-screen{\r\n  font-family: 'Aldrich', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.arithmetic-task-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.arithmetic-task-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.arithmetic-task-screen__play-button {\r\n  width: 150px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: auto;\r\n  border-radius: 5px;\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n} \r\n\r\n.arithmetic-task-screen__play-button:hover { background: rgb(232,95,76); }\r\n.arithmetic-task-screen__play-button:active { background: rgb(152,15,0); }\r\n\r\n.arithmetic-task-screen__input-container {\r\n  border: 6px double white;\r\n  padding: 5px;\r\n  margin:10px auto;\r\n}\r\n\r\n.arithmetic-task-screen__input {\r\n    font-family: 'Aldrich', sans-serif;\r\n    border: none;\r\n    color: #549ae1;\r\n    font-size: 1em;\r\n    outline: none;\r\n    line-height: 1.5;\r\n    padding: 0 5px;\r\n}", ""]);
+exports.push([module.i, ".arithmetic-task-screen *, .arithmetic-task-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.arithmetic-task-screen{\r\n  font-family: 'Russo One', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.arithmetic-task-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.arithmetic-task-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.arithmetic-task-screen__play-button {\r\n  width: 150px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: auto;\r\n  border-radius: 5px;\r\n  font-family: 'Russo One', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n} \r\n\r\n.arithmetic-task-screen__play-button:hover { background: rgb(232,95,76); }\r\n.arithmetic-task-screen__play-button:active { background: rgb(152,15,0); }\r\n\r\n.arithmetic-task-screen__input-container {\r\n  border: 6px double white;\r\n  padding: 5px;\r\n  margin:10px auto;\r\n}\r\n\r\n.arithmetic-task-screen__input {\r\n    font-family: 'Russo One', sans-serif;\r\n    border: none;\r\n    color: #549ae1;\r\n    font-size: 1em;\r\n    outline: none;\r\n    line-height: 1.5;\r\n    padding: 0 5px;\r\n}", ""]);
 
 
 
@@ -11152,10 +11152,10 @@ exports.push([module.i, ".arithmetic-task-screen *, .arithmetic-task-screen {\r\
 
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Imports
-exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Press+Start+2P&subset=cyrillic);", ""]);
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic);", ""]);
 
 // Module
-exports.push([module.i, ".login-dialog-screen *, .login-dialog-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.login-dialog-screen{\r\n  font-family: 'Press Start 2P', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.login-dialog-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.login-dialog-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.login-dialog-screen__play-button {\r\n  width: 150px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: auto;\r\n  border-radius: 5px;\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n} \r\n\r\n.login-dialog-screen__play-button:hover { background: rgb(232,95,76); }\r\n.login-dialog-screen__play-button:active { background: rgb(152,15,0); }\r\n\r\n.login-dialog-screen__input-container {\r\n  border: 6px double white;\r\n  padding: 5px;\r\n  margin:10px auto;\r\n}\r\n\r\n.login-dialog-screen__input {\r\n    font-family: 'Aldrich', sans-serif;\r\n    border: none;\r\n    color: #549ae1;\r\n    font-size: 1em;\r\n    outline: none;\r\n    line-height: 1.5;\r\n    padding: 0 5px;\r\n}", ""]);
+exports.push([module.i, ".login-dialog-screen *, .login-dialog-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.login-dialog-screen{\r\n  font-family: 'Russo One', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.login-dialog-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.login-dialog-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.login-dialog-screen__play-button {\r\n  width: 150px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: auto;\r\n  border-radius: 5px;\r\n  font-family: 'Russo One', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n} \r\n\r\n.login-dialog-screen__play-button:hover { background: rgb(232,95,76); }\r\n.login-dialog-screen__play-button:active { background: rgb(152,15,0); }\r\n\r\n.login-dialog-screen__input-container {\r\n  border: 6px double white;\r\n  padding: 5px;\r\n  margin:10px auto;\r\n}\r\n\r\n.login-dialog-screen__input {\r\n    font-family: 'Russo One', sans-serif;\r\n    border: none;\r\n    color: #549ae1;\r\n    font-size: 1em;\r\n    outline: none;\r\n    line-height: 1.5;\r\n    padding: 0 5px;\r\n}", ""]);
 
 
 
@@ -11170,10 +11170,10 @@ exports.push([module.i, ".login-dialog-screen *, .login-dialog-screen {\r\n  box
 
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Imports
-exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Aldrich);", ""]);
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic);", ""]);
 
 // Module
-exports.push([module.i, ".pause-dialog-screen *, .pause-dialog-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.pause-dialog-screen{\r\n  font-family: 'Aldrich', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.pause-dialog-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.pause-dialog-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.pause-dialog-screen__button {\r\n  width: 200px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: 15px;\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n  border: 6px double white;\r\n} \r\n\r\n.pause-dialog-screen__button.active {\r\n  border: 6px double yellow;\r\n}\r\n\r\n.pause-dialog-screen__button:hover { background: rgb(232,95,76); }\r\n.pause-dialog-screen__button:active { background: rgb(152,15,0); }", ""]);
+exports.push([module.i, ".pause-dialog-screen *, .pause-dialog-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.pause-dialog-screen{\r\n  font-family: 'Russo One', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.pause-dialog-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.pause-dialog-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.pause-dialog-screen__button {\r\n  width: 200px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: 15px;\r\n  font-family: 'Russo One', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n  border: 6px double white;\r\n} \r\n\r\n.pause-dialog-screen__button.active {\r\n  border: 6px double yellow;\r\n}\r\n\r\n.pause-dialog-screen__button:hover { background: rgb(232,95,76); }\r\n.pause-dialog-screen__button:active { background: rgb(152,15,0); }", ""]);
 
 
 
@@ -11188,10 +11188,10 @@ exports.push([module.i, ".pause-dialog-screen *, .pause-dialog-screen {\r\n  box
 
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Imports
-exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Aldrich);", ""]);
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic);", ""]);
 
 // Module
-exports.push([module.i, ".scoreboard-screen *, .scoreboard-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.scoreboard-screen{\r\n  font-family: 'Aldrich', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  min-width: 500px;\r\n  max-width: 800px;\r\n  max-height: 1000px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.scoreboard-screen__header-1 {\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1.5em;\r\n  text-align: center;\r\n  text-transform: uppercase;\r\n}\r\n\r\n.scoreboard-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.scoreboard-screen__table {\r\n  width: 100%;\r\n}\r\n\r\n.scoreboard-screen__table-header{\r\n  border: 2px solid white;\r\n  font-weight: normal;\r\n  padding-left: 10px;\r\n  text-align: left;\r\n}\r\n.scoreboard-screen__table-header__name{\r\n  width: 60%;\r\n}\r\n\r\n.scoreboard-screen__table-header__score{\r\n  width: 40%;\r\n}\r\n\r\n.scoreboard-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.scoreboard-screen__button {\r\n  width: 200px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: 15px auto;\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n  border: 6px double white;\r\n} \r\n\r\n\r\n\r\n.scoreboard-screen__button:hover { background: rgb(232,95,76); }\r\n.scoreboard-screen__button:active { background: rgb(152,15,0); }", ""]);
+exports.push([module.i, ".scoreboard-screen *, .scoreboard-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.scoreboard-screen{\r\n  font-family: 'Russo One', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  min-width: 500px;\r\n  max-width: 800px;\r\n  max-height: 1000px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.scoreboard-screen__header-1 {\r\n  font-size: 1.5em;\r\n  text-align: center;\r\n  text-transform: uppercase;\r\n}\r\n\r\n.scoreboard-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.scoreboard-screen__table {\r\n  width: 100%;\r\n}\r\n\r\n.scoreboard-screen__table-header{\r\n  border: 2px solid white;\r\n  font-weight: normal;\r\n  padding-left: 10px;\r\n  text-align: left;\r\n}\r\n.scoreboard-screen__table-header__name{\r\n  width: 60%;\r\n}\r\n\r\n.scoreboard-screen__table-header__score{\r\n  width: 40%;\r\n}\r\n\r\n.scoreboard-screen__section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.scoreboard-screen__button {\r\n  width: 200px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: 15px auto;\r\n  font-family: 'Russo One', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n  border: 6px double white;\r\n} \r\n\r\n\r\n\r\n.scoreboard-screen__button:hover { background: rgb(232,95,76); }\r\n.scoreboard-screen__button:active { background: rgb(152,15,0); }", ""]);
 
 
 
@@ -11206,10 +11206,10 @@ exports.push([module.i, ".scoreboard-screen *, .scoreboard-screen {\r\n  box-siz
 
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Imports
-exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Aldrich);", ""]);
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic);", ""]);
 
 // Module
-exports.push([module.i, ".translation-task-screen *, .translation-task-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.translation-task-screen{\r\n  font-family: 'Aldrich', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px;\r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.translation-task-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.translation-task-screen__section-text{\r\n  margin: 10px;\r\n  text-align: center;\r\n}\r\n\r\n.translation-task-screen__play-button {\r\n  width: 150px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: auto;\r\n  border-radius: 5px;\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n} \r\n\r\n.translation-task-screen__play-button:hover { background: rgb(232,95,76); }\r\n.translation-task-screen__play-button:active { background: rgb(152,15,0); }\r\n\r\n.translation-task-screen__input-container {\r\n  border: 6px double white;\r\n  padding: 5px;\r\n  margin:10px auto;\r\n}\r\n\r\n.translation-task-screen__input {\r\n    font-family: 'Aldrich', sans-serif;\r\n    border: none;\r\n    color: #549ae1;\r\n    font-size: 1em;\r\n    outline: none;\r\n    line-height: 1.5;\r\n    padding: 0 5px;\r\n}\r\n\r\n.translation-task-screen__section-text .highlighted {\r\n  background: yellow;\r\n  font-size: 1.5em;\r\n  padding: 2px;\r\n  color: #549ae1;\r\n}", ""]);
+exports.push([module.i, ".translation-task-screen *, .translation-task-screen {\r\n  box-sizing: border-box;\r\n}\r\n\r\n.translation-task-screen{\r\n  font-family: 'Russo One', sans-serif;\r\n  color: white;\r\n  padding: 5px;\r\n  max-width: 600px;\r\n  max-height: 600px; \r\n  font-size: 20px;\r\n  background: #549ae1;\r\n  position: absolute;\r\n  top:50% ; left:50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.translation-task-screen__section {\r\n  border: 6px double white;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  margin: 0;\r\n  padding: 5px;\r\n}\r\n\r\n.translation-task-screen__section-text{\r\n  margin: 10px;\r\n  text-align: center;\r\n}\r\n\r\n.translation-task-screen__play-button {\r\n  width: 150px;\r\n  height: 60px;\r\n  color: #fff;\r\n  margin: auto;\r\n  border-radius: 5px;\r\n  font-family: 'Russo One', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n  display: block;\r\n} \r\n\r\n.translation-task-screen__play-button:hover { background: rgb(232,95,76); }\r\n.translation-task-screen__play-button:active { background: rgb(152,15,0); }\r\n\r\n.translation-task-screen__input-container {\r\n  border: 6px double white;\r\n  padding: 5px;\r\n  margin:10px auto;\r\n}\r\n\r\n.translation-task-screen__input {\r\n    font-family: 'Russo One', sans-serif;\r\n    border: none;\r\n    color: #549ae1;\r\n    font-size: 1em;\r\n    outline: none;\r\n    line-height: 1.5;\r\n    padding: 0 5px;\r\n}\r\n\r\n.translation-task-screen__section-text .highlighted {\r\n  background: yellow;\r\n  font-size: 1.5em;\r\n  padding: 2px;\r\n  color: #549ae1;\r\n}", ""]);
 
 
 
@@ -11224,10 +11224,10 @@ exports.push([module.i, ".translation-task-screen *, .translation-task-screen {\
 
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Imports
-exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Press+Start+2P&subset=cyrillic);", ""]);
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Russo+One&subset=cyrillic);", ""]);
 
 // Module
-exports.push([module.i, ".home-screen{\r\n  overflow: auto;\r\n  margin: auto;\r\n  padding: 10px;\r\n  max-width: 1200px;\r\n  font-size: 25px;\r\n}\r\n\r\n.home-screen__header-1 {\r\n  font-family: 'Press Start 2P', sans-serif;\r\n  font-size: 2em;\r\n  text-align: center;\r\n  text-transform: uppercase;\r\n}\r\n\r\n.home-screen__header-2 {  \r\n  margin: 15px;\r\n}\r\n\r\n.home-screen__section {\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  padding: 20px;\r\n  width: 95%;\r\n  outline-offset: 5px;\r\n}\r\n\r\n.section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.home-screen__section:nth-child(2n){\r\n  color: white;\r\n  background-color: #549ae1;\r\n  outline-offset: -11px;\r\n  outline: 6px double white;\r\n}\r\n\r\n.play-button {\r\n  width: 150px;\r\n  height: 70px;\r\n  color: #fff;\r\n  border-radius: 5px;\r\n  font-family: 'Aldrich', sans-serif;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n} \r\n.play-button:hover { background: rgb(232,95,76); }\r\n.play-button:active { background: rgb(152,15,0); }\r\n\r\n.color-text-fragment {\r\n  color: #549ae1;\r\n}\r\n\r\n @media (max-width: 600px) {\r\n  .home-screen{\r\n    font-size: 15px;\r\n  }\r\n}", ""]);
+exports.push([module.i, "a {\r\n  color: inherit;\r\n}\r\n\r\n.home-screen{\r\n  font-family: 'Russo One', sans-serif;\r\n  overflow: auto;\r\n  margin: auto;\r\n  padding: 10px;\r\n  max-width: 1200px;\r\n  font-size: 25px;\r\n}\r\n\r\n.home-screen__header-1 {\r\n  font-size: 2em;\r\n  text-align: center;\r\n  text-transform: uppercase;\r\n}\r\n\r\n.home-screen__header-2 {  \r\n  margin: 15px;\r\n}\r\n\r\n.home-screen__section {\r\n  font-size: 1em;\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  padding: 20px;\r\n  width: 95%;\r\n  outline-offset: 5px;\r\n}\r\n\r\n.section-text{\r\n  margin: 10px;\r\n  align-self: flex-start;\r\n}\r\n\r\n.home-screen__section:nth-child(2n){\r\n  color: white;\r\n  background-color: #549ae1;\r\n  outline-offset: -11px;\r\n  outline: 6px double white;\r\n}\r\n\r\n.play-button {\r\n  font-family: 'Russo One', sans-serif;\r\n  width: 150px;\r\n  height: 70px;\r\n  color: #fff;\r\n  border-radius: 5px;\r\n  font-size: 1em;\r\n  text-decoration: none;\r\n  user-select: none;\r\n  background: rgb(212,75,56);\r\n  outline: none;\r\n  border: none;\r\n} \r\n.play-button:hover { background: rgb(232,95,76); }\r\n.play-button:active { background: rgb(152,15,0); }\r\n\r\n.color-text-fragment {\r\n  color: #549ae1;\r\n}\r\n\r\n.home-screen__screenshot-section__wrapper{\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  justify-content: center;\r\n  align-items: flex-start;\r\n}\r\n\r\n.home-screen__screenshot-section__screenshot {\r\n  width: 40%;\r\n  margin: 15px;\r\n}\r\n\r\n.home-screen__credits-section__wrapper{\r\n  display: flex;\r\n  flex-direction: row;\r\n  \r\n  align-items: flex-start;\r\n}\r\n\r\n.home-screen__credits-section__author {\r\n  width: 200px;\r\n  height: auto;\r\n  margin: 15px;\r\n}\r\n\r\n\r\n\r\n @media (max-width: 600px) {\r\n  .home-screen{\r\n    font-size: 15px;\r\n  }\r\n}\r\n\r\n", ""]);
 
 
 
@@ -13304,9 +13304,9 @@ function () {
           _posOptions$minY = posOptions.minY,
           minY = _posOptions$minY === void 0 ? y || 0 : _posOptions$minY,
           _posOptions$maxX = posOptions.maxX,
-          maxX = _posOptions$maxX === void 0 ? x ? minX : this.sizeX : _posOptions$maxX,
+          maxX = _posOptions$maxX === void 0 ? x ? this.sizeX : minX : _posOptions$maxX,
           _posOptions$maxY = posOptions.maxY,
-          maxY = _posOptions$maxY === void 0 ? y ? minY : this.sizeY : _posOptions$maxY;
+          maxY = _posOptions$maxY === void 0 ? y ? this.sizeY : minY : _posOptions$maxY;
 
       var _loop = function _loop(i) {
         var elem = {};
@@ -13422,15 +13422,24 @@ function () {
 __webpack_require__.r(__webpack_exports__);
 var EnvironmentConfig = {
   combinations: {
-    choco: ['castle', 'tree', 'clouds', 'sun'],
-    dirt: ['castle', 'tree', 'clouds', 'sun'],
-    grass: ['castle', 'tree', 'clouds', 'sun'],
-    metall: ['castle', 'tree', 'clouds', 'sun'],
-    purple: ['castle', 'tree', 'clouds', 'sun'],
-    sand: ['castleDesert', 'treeDesert', 'clouds', 'sun'],
-    snow: ['castle', 'treeSnow', 'clouds', 'sun'],
-    tundra: ['castle', 'tree', 'clouds', 'sun'],
-    cake: ['castle', 'tree', 'clouds', 'sun']
+    choco: ['castle', 'tree', 'clouds', 'sun', 'sky'],
+    dirt: ['castle', 'tree', 'clouds', 'sun', 'sky'],
+    grass: ['castle', 'tree', 'clouds', 'sun', 'sky'],
+    metall: ['castle', 'tree', 'clouds', 'sun', 'sky'],
+    purple: ['castle', 'tree', 'clouds', 'sun', 'sky'],
+    sand: ['castleDesert', 'treeDesert', 'clouds', 'sun', 'sky'],
+    snow: ['castle', 'treeSnow', 'clouds', 'sun', 'sky'],
+    tundra: ['castle', 'tree', 'clouds', 'sun', 'sky'],
+    cake: ['castle', 'tree', 'clouds', 'sun', 'sky'],
+    choco_night: ['castle', 'tree', 'clouds', 'moon', 'night_sky'],
+    dirt_night: ['castle', 'tree', 'clouds', 'moon', 'night_sky'],
+    grass_night: ['castle', 'tree', 'clouds', 'moon', 'night_sky'],
+    metall_night: ['castle', 'tree', 'clouds', 'moon', 'night_sky'],
+    purple_night: ['castle', 'tree', 'clouds', 'moon', 'night_sky'],
+    sand_night: ['castleDesert', 'treeDesert', 'clouds', 'moon', 'night_sky'],
+    snow_night: ['castle', 'treeSnow', 'clouds', 'moon', 'night_sky'],
+    tundra_night: ['castle', 'tree', 'clouds', 'moon', 'night_sky'],
+    cake_night: ['castle', 'tree', 'clouds', 'moon', 'night_sky']
   },
   itemsPos: {
     // {x: , y:}, {minX: , minY: , maxX: , maxY: },
@@ -13447,7 +13456,7 @@ var EnvironmentConfig = {
       countMax: 2,
       countMin: 1,
       overlay: false,
-      drawOrder: 1,
+      drawOrder: 2,
       grounded: true
     },
     castleDesert: {
@@ -13457,7 +13466,7 @@ var EnvironmentConfig = {
       },
       countMax: 1,
       overlay: true,
-      drawOrder: 1,
+      drawOrder: 2,
       grounded: true
     },
     treeSnow: {
@@ -13467,7 +13476,7 @@ var EnvironmentConfig = {
       },
       countMax: 1,
       overlay: true,
-      drawOrder: 1,
+      drawOrder: 2,
       grounded: true
     },
     treeDesert: {
@@ -13477,7 +13486,7 @@ var EnvironmentConfig = {
       },
       countMax: 1,
       overlay: true,
-      drawOrder: 1,
+      drawOrder: 2,
       grounded: true
     },
     tree: {
@@ -13488,7 +13497,7 @@ var EnvironmentConfig = {
       countMax: 3,
       countMin: 1,
       overlay: true,
-      drawOrder: 1,
+      drawOrder: 2,
       grounded: true
     },
     clouds: {
@@ -13501,7 +13510,7 @@ var EnvironmentConfig = {
       countMax: 3,
       countMin: 1,
       overlay: true,
-      drawOrder: 0
+      drawOrder: 1
     },
     sun: {
       pos: {
@@ -13513,6 +13522,38 @@ var EnvironmentConfig = {
       countMax: 1,
       countMin: 1,
       overlay: false,
+      drawOrder: 1
+    },
+    moon: {
+      pos: {
+        minX: 0,
+        _minY: 0,
+        _maxX: 100,
+        _maxY: 10
+      },
+      countMax: 1,
+      countMin: 1,
+      overlay: false,
+      drawOrder: 1
+    },
+    sky: {
+      pos: {
+        x: 0,
+        y: 0
+      },
+      countMax: 1,
+      countMin: 1,
+      overlay: true,
+      drawOrder: 0
+    },
+    night_sky: {
+      pos: {
+        x: 0,
+        y: 0
+      },
+      countMax: 1,
+      countMin: 1,
+      overlay: true,
       drawOrder: 0
     }
   }
@@ -13640,7 +13681,7 @@ function () {
         then: null
       };
       this.player = _Character_Character__WEBPACK_IMPORTED_MODULE_5__["default"].create('player', this.resource.resourcesCache, this.timing);
-      this.player.name = this.playerName;
+      this.player.name = this.playerName ? this.playerName : 'Secret Warrior';
       this.playerHUD = new _HUD_HUD__WEBPACK_IMPORTED_MODULE_7__["default"](this.player);
       this.round = 0;
       this.score = 0;
@@ -13909,7 +13950,8 @@ function () {
       this.context.drawImage(enemyHUD, 0, 0, this.canvas.width, this.canvas.height, this.canvas.width - enemyHUD.width, 0, this.canvas.width, this.canvas.height);
       this.context.drawImage(player, 0, 0, player.width, player.height, Math.round(this.player.state.posX * this.scale), Math.round(this.player.state.posY * this.scale), player.width, player.height);
       this.context.drawImage(enemy, 0, 0, enemy.width, enemy.height, Math.round(this.enemy.state.posX * this.scale), Math.round(this.enemy.state.posY * this.scale), enemy.width, enemy.height);
-      this.context.font = "".concat(20 * this.scale, "px Aldrich");
+      this.context.fillStyle = 'rgb(212,75,56)';
+      this.context.font = "".concat(20 * this.scale, "px Russo One");
       this.context.textAlign = 'center';
       this.context.fillText("Round: ".concat(this.round, "  Score: ").concat(this.score), this.canvas.width / 2, 50 * this.scale);
     }
@@ -13923,7 +13965,7 @@ function () {
 
         if (!(this.score < scoreObj[9])) {
           var newScoreObj = scoreObj.concat([{
-            name: this.player.name ? this.player.name : 'Secret Warrior',
+            name: this.player.name,
             score: this.score
           }]);
           newScoreObj.sort(function (a, b) {
@@ -14077,13 +14119,15 @@ function () {
       var drawParamArr = [sizeX, sizeY, 0, 0, sizeX, sizeY];
       var health = this.charToDisplay.state.currHealth / this.charToDisplay.state.health * 100;
       var healthBarPos = sizeX + 5;
-      context.fillStyle = '#ff0000';
+      context.fillStyle = 'rgb(232,95,76)';
       context.strokeStyle = 'green';
+      context.lineWidth = 2;
       context.strokeRect(healthBarPos - 1, 9, 102, 17);
       if (health > 0) context.fillRect(healthBarPos, 10, health, 15);
       context.drawImage.apply(context, [this.icon, 0, 0].concat(drawParamArr));
       context.scale(this.side * 1, 1);
-      context.font = "".concat(15, "px Aldrich");
+      context.fillStyle = 'rgb(212,75,56)';
+      context.font = "".concat(15, "px Russo One");
       context.fillText(this.charToDisplay.name, this.side > 0 ? 0 : this.side * (sizeX + 110), sizeY - 10, sizeX + 110);
       return canvas;
     }
@@ -14222,7 +14266,16 @@ var ResourceConfig = {
       sand: ['./src/assets/background/platform_sand.png'],
       snow: ['./src/assets/background/platform_snow.png'],
       tundra: ['./src/assets/background/platform_tundra.png'],
-      cake: ['./src/assets/background/platform_cake.png']
+      cake: ['./src/assets/background/platform_cake.png'],
+      choco_night: ['./src/assets/background/platform_choco.png'],
+      dirt_night: ['./src/assets/background/platform_dirt.png'],
+      grass_night: ['./src/assets/background/platform_grass.png'],
+      metall_night: ['./src/assets/background/platform_metall.png'],
+      purple_night: ['./src/assets/background/platform_purple.png'],
+      sand_night: ['./src/assets/background/platform_sand.png'],
+      snow_night: ['./src/assets/background/platform_snow.png'],
+      tundra_night: ['./src/assets/background/platform_tundra.png'],
+      cake_night: ['./src/assets/background/platform_cake.png']
     },
     envElements: {
       castleDesert: ['./src/assets/background/piramid.png', './src/assets/background/temple.png'],
@@ -14231,7 +14284,10 @@ var ResourceConfig = {
       treeDesert: ['./src/assets/background/tree16.png', './src/assets/background/tree17.png', './src/assets/background/tree18.png', './src/assets/background/tree19.png'],
       tree: ['./src/assets/background/tree01.png', './src/assets/background/tree02.png', './src/assets/background/tree03.png', './src/assets/background/tree05.png', './src/assets/background/tree07.png', './src/assets/background/tree08.png', './src/assets/background/tree09.png', './src/assets/background/tree10.png', './src/assets/background/tree11.png', './src/assets/background/tree13.png', './src/assets/background/tree14.png', './src/assets/background/tree20.png', './src/assets/background/tree21.png', './src/assets/background/tree23.png', './src/assets/background/tree24.png', './src/assets/background/tree25.png', './src/assets/background/tree26.png', './src/assets/background/tree27.png', './src/assets/background/tree28.png', './src/assets/background/tree29.png', './src/assets/background/tree30.png', './src/assets/background/tree31.png', './src/assets/background/tree32.png', './src/assets/background/tree34.png'],
       clouds: ['./src/assets/background/cloud1.png', './src/assets/background/cloud2.png', './src/assets/background/cloud3.png', './src/assets/background/cloud4.png', './src/assets/background/cloud5.png', './src/assets/background/cloud6.png', './src/assets/background/cloud7.png', './src/assets/background/cloud8.png', './src/assets/background/cloud9.png'],
-      sun: ['./src/assets/background/moon_full.png', './src/assets/background/moon_half.png', './src/assets/background/sun.png']
+      sun: ['./src/assets/background/sun.png'],
+      moon: ['./src/assets/background/moon_full.png', './src/assets/background/moon_half.png'],
+      sky: ['./src/assets/background/sky.svg'],
+      night_sky: ['./src/assets/background/night_sky.svg']
     }
   },
   sounds: {
@@ -15273,7 +15329,7 @@ document.body.innerHTML = _home_template__WEBPACK_IMPORTED_MODULE_0__["default"]
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<section class=\"home-screen\">\n  <h1 class='home-screen__header-1'>The <span class='color-text-fragment'>Retro</span>Super<span class='color-text-fragment'>Future</span> Game</h1>\n  <div class=\"home-screen__section home-screen__about-section\">\n    <h2 class='home-screen__header-2'>About</h2>\n    <p class='section-text'>\n    Hello my friend!\n    </p>\n    <p class='section-text'>\n    Today you have a hard battle ahead ...\n    </p>\n    <p class='section-text'>\n    The enemy doesn't sleep and  to beat him you will have to use your head very well.\n    </p>\n    <p class='section-text'>\n    The most difficult are mathematical skills and knowledge of foreign languages.\n    </p>\n    <p class='section-text'>\n    But anyway, be careful Adventurer...\n    </p>\n    <p class='section-text'>\n    May the Force be with you!\n    </p>\n  </div>\n  <div class=\"home-screen__section home-screen__screenShot-section\">\n    <h2 class='home-screen__header-2'>ScreenShots</h2>\n  </div>\n  <div class=\"home-screen__section home-screen__controls-section\">\n    <h2 class='home-screen__header-2'>Controls</h2>\n  </div>\n  <div class=\"home-screen__section home-screen__play-section\">\n    <h2 class='home-screen__header-2'>Time for a battle as great as one in Mozambique in 1979</h2>\n    <button class='play-button home-screen__start-button'>PLAY</button>\n  </div>\n  <div class=\"home-screen__section home-screen__credits-section\">\n    <h2 class='home-screen__header-2'>Credits</h2>\n  </div>\n</section>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<section class=\"home-screen\">\n  <h1 class='home-screen__header-1'>The <span class='color-text-fragment'>Retro</span>Super<span class='color-text-fragment'>Future</span> Game</h1>\n  <div class=\"home-screen__section home-screen__about-section\">\n    <h2 class='home-screen__header-2'>About</h2>\n    <p class='section-text'>\n    Hello my friend!\n    </p>\n    <p class='section-text'>\n    Today you have a hard battle ahead ...\n    </p>\n    <p class='section-text'>\n    The enemy doesn't sleep and  to beat him you will have to use your head very well.\n    </p>\n    <p class='section-text'>\n    The most difficult are mathematical skills and knowledge of foreign languages.\n    </p>\n    <p class='section-text'>\n    But anyway, be careful Adventurer...\n    </p>\n    <p class='section-text'>\n    May the Force be with you!\n    </p>\n  </div>\n  <div class=\"home-screen__section home-screen__screenshot-section\">\n    <h2 class='home-screen__header-2'>ScreenShots</h2>\n    <div class=\"home-screen__screenshot-section__wrapper\">\n      <img src=\"./src/images/screenshot_0000.png\" alt=\"screenshot\" class=\"home-screen__screenShot-section__screenshot\">\n      <img src=\"./src/images/screenshot_0001.png\" alt=\"screenshot\" class=\"home-screen__screenShot-section__screenshot\">\n      <img src=\"./src/images/screenshot_0002.png\" alt=\"screenshot\" class=\"home-screen__screenShot-section__screenshot\">\n      <img src=\"./src/images/screenshot_0003.png\" alt=\"screenshot\" class=\"home-screen__screenShot-section__screenshot\">\n      <img src=\"./src/images/screenshot_0004.png\" alt=\"screenshot\" class=\"home-screen__screenShot-section__screenshot\">\n      <img src=\"./src/images/screenshot_0005.png\" alt=\"screenshot\" class=\"home-screen__screenShot-section__screenshot\">\n    </div>\n  </div>\n  <div class=\"home-screen__section home-screen__controls-section\">\n    <h2 class='home-screen__header-2'>Controls</h2>\n    <p class='section-text'>\n    You can use keyboard or mouse to fight.\n    </p>\n    <p class='section-text'>\n    Use arrows to navigate.\n    </p>\n    <p class='section-text'>\n    SPACE or ENTER to select.\n    </p>\n    <p class='section-text'>\n    ESCAPE to return.\n    </p>\n  </div>\n  <div class=\"home-screen__section home-screen__play-section\">\n    <h2 class='home-screen__header-2'>Time for a battle as great as one in Mozambique in 1979</h2>\n    <button class='play-button home-screen__start-button'>PLAY</button>\n  </div>\n  <div class=\"home-screen__section home-screen__credits-section\">\n    <h2 class='home-screen__header-2'>Credits</h2>\n    <div class=\"home-screen__credits-section__wrapper\">\n    <img src=\"./src/images/author.png\" alt=\"screenshot\" class=\"home-screen__credits-section__author\">\n    <div>\n    <p class='section-text'>This is The Greates and Best Author of this Game! Ave!</p>\n    <p class='section-text'><a href=\"https://github.com/grnkvch\">https://github.com/grnkvch<a></p>\n    </div>\n    </div>\n    <p class='section-text'>Thanks <a href=\"https://www.kenney.nl/\">https://www.kenney.nl/<a> for great gameart</p>\n  </div>\n</section>\n");
 
 /***/ }),
 
