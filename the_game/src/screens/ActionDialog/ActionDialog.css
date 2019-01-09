@@ -47,5 +47,9 @@
   border: 6px double white;
 } 
 
+.active {
+  border: 6px double yellow;
+}
+
 .action-dialog-screen__button:hover { background: rgb(232,95,76); }
 .action-dialog-screen__button:active { background: rgb(152,15,0); }
