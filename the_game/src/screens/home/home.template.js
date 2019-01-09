@@ -58,6 +58,8 @@ export default `
     <img src="./src/images/author.png" alt="screenshot" class="home-screen__credits-section__author">
     <div>
     <p class='section-text'>This is The Greates and Best Author of this Game! Ave!</p>
+    <p class='section-text'>Valentin Grinkevich.</p>
+    <p class='section-text'>Ave!</p>
     <p class='section-text'><a href="https://github.com/grnkvch">https://github.com/grnkvch<a></p>
     </div>
     </div>
