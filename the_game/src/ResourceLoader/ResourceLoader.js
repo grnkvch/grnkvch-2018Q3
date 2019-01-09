@@ -1,7 +1,7 @@
 
 export default class ResourceLoader {
   constructor() {
-    this.resoursesCache = {};
+    this.resourcesCache = {};
   }
 
   static loadImage(url) {
@@ -16,42 +16,40 @@ export default class ResourceLoader {
   }
 
   static loadSection(src, dst) {
-    const [keys, length] = [Object.keys(src), Object.keys(src).length];
     let promises = [];
-    for (let i = 0; i < length; i += 1) {
-      dst[keys[i]] = [];
-      promises = promises.concat(src[keys[i]].map(
+    const keys = Object.keys(src);
+    keys.forEach((key) => {
+      dst[key] = [];
+      promises = promises.concat(src[key].map(
         url => ResourceLoader.loadImage(url)
-          .then(data => dst[keys[i]].push(data), missingUrl => window.console.log(`Cannot find file: ${missingUrl}`)),
+          .then(data => dst[key].push(data), missingUrl => window.console.log(`Cannot find file: ${missingUrl}`)),
       ));
-    }
+    });
     return promises;
   }
 
   load(src) {
     let promises = [];
+    if (src.sounds) {
+      this.resourcesCache.sounds = Object.create(null);
+      const keys = Object.keys(src.sounds);
+      keys.forEach((key) => {
+        let audio = new Promise((resolve) => {
+          resolve(this.resourcesCache.sounds[key] = new Audio(src.sounds[key]))
+        });
+        promises = promises.concat(audio);
+      });
+    }
     if (src.images) {
-      this.resoursesCache.images = Object.create(null);
-      const [keys, length] = [Object.keys(src.images), Object.keys(src.images).length];
-      for (let i = 0; i < length; i += 1) {
-        this.resoursesCache.images[keys[i]] = Object.create(null);
-        promises = promises.concat(ResourceLoader.loadSection(src.images[keys[i]],
-          this.resoursesCache.images[keys[i]]));
-      }
+      this.resourcesCache.images = Object.create(null);
+      const keys = Object.keys(src.images);
+      keys.forEach((key) => {
+        this.resourcesCache.images[key] = Object.create(null);
+        promises = promises.concat(ResourceLoader.loadSection(src.images[key],
+          this.resourcesCache.images[key]));
+      });
     }
-    return Promise.all(promises).then(() => this.resoursesCache);
-  }
-
-  loadThemes(src) {
-    if (src.themes) {
-      const themes = src.themes;
-      const keys = Object.keys(themes);
-      const length = keys.length;
-      for (let i = 0; i < length; i += 1) {
-        if (src.themes[keys[i]].length !== 0) {
-          this.resoursesCache.themes[keys[i]] = themes.keys[i].slice();
-        }
-      }
-    }
+    
+    return Promise.all(promises).then(() => this.resourcesCache);
   }
 }
