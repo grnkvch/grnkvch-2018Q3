@@ -46,7 +46,7 @@ export default class Environment {
       } else posOptions[key] = elemConfig.pos[key];
     });
     const {
-      x, y, minX = x || 0, minY = y || 0, maxX = x ? minX : this.sizeX, maxY = y ? minY : this.sizeY,
+      x, y, minX = x || 0, minY = y || 0, maxX = x ? this.sizeX : minX, maxY = y ? this.sizeY : minY,
     } = posOptions;
     for (let i = 0; i < repeatCount; i += 1) {
       const elem = {};
