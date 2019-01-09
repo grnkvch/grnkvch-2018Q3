@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich');
+.scoreboard-screen *, .scoreboard-screen {
+  box-sizing: border-box;
+}
+
+.scoreboard-screen{
+  font-family: 'Aldrich', sans-serif;
+  color: white;
+  padding: 5px;
+  min-width: 500px;
+  max-width: 800px;
+  max-height: 1000px;
+  font-size: 20px;
+  background: #549ae1;
+  position: absolute;
+  top:50% ; left:50%;
+  transform: translate(-50%, -50%);
+}
+
+.scoreboard-screen__header-1 {
+  font-family: 'Aldrich', sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.scoreboard-screen__section {
+  border: 6px double white;
+  font-size: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 5px;
+}
+
+.scoreboard-screen__table {
+  width: 100%;
+}
+
+.scoreboard-screen__table-header{
+  border: 2px solid white;
+  font-weight: normal;
+  padding-left: 10px;
+  text-align: left;
+}
+.scoreboard-screen__table-header__name{
+  width: 60%;
+}
+
+.scoreboard-screen__table-header__score{
+  width: 40%;
+}
+
+.scoreboard-screen__section-text{
+  margin: 10px;
+  align-self: flex-start;
+}
+
+.scoreboard-screen__button {
+  width: 200px;
+  height: 60px;
+  color: #fff;
+  margin: 15px auto;
+  font-family: 'Aldrich', sans-serif;
+  font-size: 1em;
+  text-decoration: none;
+  user-select: none;
+  background: rgb(212,75,56);
+  outline: none;
+  border: none;
+  display: block;
+  border: 6px double white;
+} 
+
+
+
+.scoreboard-screen__button:hover { background: rgb(232,95,76); }
+.scoreboard-screen__button:active { background: rgb(152,15,0); }
