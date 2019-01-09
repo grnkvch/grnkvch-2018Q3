@@ -24,11 +24,16 @@ export default class HUD {
     ];
     const health = this.charToDisplay.state.currHealth / this.charToDisplay.state.health * 100;
     const healthBarPos = sizeX + 5;
-    context.fillStyle = '#ff0000'; 
+    context.fillStyle = 'rgb(232,95,76)'; 
     context.strokeStyle = 'green';
+    context.lineWidth = 2;
     context.strokeRect(healthBarPos-1, 9, 102, 17);
     if (health>0) context.fillRect(healthBarPos, 10, health, 15);
     context.drawImage(this.icon, 0, 0, ...drawParamArr);
+    context.scale(this.side * 1, 1);
+    context.fillStyle = 'rgb(212,75,56)';
+    context.font = `${15}px Russo One`;
+    context.fillText(this.charToDisplay.name, this.side > 0 ? 0 : this.side * (sizeX + 110), sizeY-10, sizeX + 110);
     return canvas;
   }
 }
