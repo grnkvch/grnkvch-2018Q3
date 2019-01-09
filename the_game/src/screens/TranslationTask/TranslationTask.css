@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich');
+.translation-task-screen *, .translation-task-screen {
+  box-sizing: border-box;
+}
+
+.translation-task-screen{
+  font-family: 'Aldrich', sans-serif;
+  color: white;
+  padding: 5px;
+  max-width: 600px;
+  max-height: 600px;
+  font-size: 20px;
+  background: #549ae1;
+  position: absolute;
+  top:50% ; left:50%;
+  transform: translate(-50%, -50%);
+}
+
+.translation-task-screen__section {
+  border: 6px double white;
+  font-size: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 5px;
+}
+
+.translation-task-screen__section-text{
+  margin: 10px;
+  text-align: center;
+}
+
+.translation-task-screen__play-button {
+  width: 150px;
+  height: 60px;
+  color: #fff;
+  margin: auto;
+  border-radius: 5px;
+  font-family: 'Aldrich', sans-serif;
+  font-size: 1em;
+  text-decoration: none;
+  user-select: none;
+  background: rgb(212,75,56);
+  outline: none;
+  border: none;
+  display: block;
+} 
+
+.translation-task-screen__play-button:hover { background: rgb(232,95,76); }
+.translation-task-screen__play-button:active { background: rgb(152,15,0); }
+
+.translation-task-screen__input-container {
+  border: 6px double white;
+  padding: 5px;
+  margin:10px auto;
+}
+
+.translation-task-screen__input {
+    font-family: 'Aldrich', sans-serif;
+    border: none;
+    color: #549ae1;
+    font-size: 1em;
+    outline: none;
+    line-height: 1.5;
+    padding: 0 5px;
+}
+
+.translation-task-screen__section-text .highlighted {
+  background: yellow;
+  font-size: 1.5em;
+  padding: 2px;
+  color: #549ae1;
+}
