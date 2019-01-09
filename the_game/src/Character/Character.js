@@ -3,11 +3,11 @@ import CharacterConfig from './CharacterConfig';
 export default class Character {
   constructor() {
     this.model = Object.create(null);
+    this.sounds = Object.create(null);
     this.state = {
       limbsPos: Object.create(null),
       drawOrder: Object.create(null),
     };
-    this.enemy = null;
     this.timing = null;
   }
 
@@ -35,7 +35,13 @@ export default class Character {
         y: configSet.model[limb].y,
       };
     });
-    Character.getConfig(configSet, charInstance, charInstance, 'model');
+    if (configSet.sounds) {
+      const characterSounds = Object.keys(configSet.sounds);
+      characterSounds.forEach((sound) => {
+        charInstance.sounds[sound] = resourceChache.sounds[sound];
+      });
+    }
+    Character.getConfig(configSet, charInstance, charInstance, 'model', 'sounds');
     charInstance.state.currHealth = charInstance.state.health;
     charInstance.stateStorage();
     charInstance.timing = timingObj;

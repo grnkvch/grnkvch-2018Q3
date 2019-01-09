@@ -8,7 +8,6 @@ const CharacterConfig = {
       leftHand: { x: 0, y: 0 },
       rightHand: { x: 0, y: 0 },
       head: { x: 0, y: 0 },
-      blast: { x: 0, y: 0 },
     },
     state: {
       posX: 50,
@@ -28,6 +27,12 @@ const CharacterConfig = {
       // limbsPos:{} - this section will be appear in stateObj after character creation,
       // and contains objects like limb:{x: Number,y: Number},
       // x, y - relative limbs initial position
+    },
+    sounds: {
+      hitAttack: true,
+      kickAttack: true,
+      step: true,
+      shamandance: true,
     },
     actions: {
       standByAnimation() {
@@ -58,6 +63,8 @@ const CharacterConfig = {
               this.state.limbsPos[key].x = arr[currentfarme][0];
               this.state.limbsPos[key].y = arr[currentfarme][1];
             });
+            this.sounds.step.volume = 0.12;
+            this.sounds.step.play();
             if (currentfarme < arr.length - 1) currentfarme += 1;
             else currentfarme = 0;
             dtSum = 0;
@@ -76,6 +83,8 @@ const CharacterConfig = {
           if (currentfarme > frames.length - 1) {
             this.state.drawOrder.rightHand = 5;
             currentfarme = 0;
+            this.sounds.hitAttack.volume = 0.12;
+            this.sounds.hitAttack.play();
             return true;
           }
           if (del > 0.3) {
@@ -101,6 +110,8 @@ const CharacterConfig = {
           if (currentfarme > frames.length - 1) {
             this.state.drawOrder.rightHand = 5;
             currentfarme = 0;
+            this.sounds.kickAttack.volume = 0.12;
+            this.sounds.kickAttack.play();
             return true;
           }
           if (del > 0.3) {
@@ -263,7 +274,10 @@ const CharacterConfig = {
               that.restore();
             }
             gener = generateSequence();
-          } else gener.next();
+          } else if (gener.next().done) {
+            gener = null;
+            return true;
+          }
         };
         this.abilities.hitAttack.caption = 'HIT';
       },
@@ -308,9 +322,12 @@ const CharacterConfig = {
           if (!gener) {
             function* generateSequence() {
               that.save();
+              that.sounds.shamandance.volume = 0.12;
+              that.sounds.shamandance.play();
               while (!that.actions.shamanDance()) {
                 yield;
               }
+              that.sounds.shamandance.pause();
               that.restore();
               that.state.currHealth += 25;
               if (that.state.currHealth > that.state.health) that.state.currHealth = that.state.health;
@@ -334,7 +351,6 @@ const CharacterConfig = {
       leftHand: { x: 0, y: 0 },
       rightHand: { x: 0, y: 0 },
       head: { x: 0, y: 0 },
-      blast: { x: 0, y: 0 },
     },
     state: {
       posX: 710,
@@ -354,6 +370,11 @@ const CharacterConfig = {
       // limbsPos:{} - this section will be appear in stateObj after character creation,
       // and contains objects like limb:{x: Number,y: Number},
       // x, y - relative limbs initial position
+    },
+    sounds: {
+      hitAttack: true,
+      kickAttack: true,
+      step: true,
     },
     actions: {
       standByAnimation() {
@@ -384,6 +405,8 @@ const CharacterConfig = {
               this.state.limbsPos[key].x = arr[currentfarme][0];
               this.state.limbsPos[key].y = arr[currentfarme][1];
             });
+            this.sounds.step.volume = 0.12;
+            this.sounds.step.play();
             if (currentfarme < arr.length - 1) currentfarme += 1;
             else currentfarme = 0;
             dtSum = 0;
@@ -402,6 +425,8 @@ const CharacterConfig = {
           if (currentfarme > frames.length - 1) {
             this.state.drawOrder.rightHand = 5;
             currentfarme = 0;
+            this.sounds.hitAttack.volume = 0.12;
+            this.sounds.hitAttack.play();
             return true;
           }
           if (del > 0.3) {
@@ -427,6 +452,8 @@ const CharacterConfig = {
           if (currentfarme > frames.length - 1) {
             this.state.drawOrder.rightHand = 5;
             currentfarme = 0;
+            this.sounds.kickAttack.volume = 0.12;
+            this.sounds.kickAttack.play();
             return true;
           }
           if (del > 0.3) {
@@ -589,8 +616,12 @@ const CharacterConfig = {
               that.restore();
             }
             gener = generateSequence();
-          } else gener.next();
+          } else if (gener.next().done) {
+            gener = null;
+            return true;
+          }
         };
+        this.abilities.hitAttack.caption = 'HIT';
       },
       kickAttack() {
         let gener = null;
@@ -624,27 +655,7 @@ const CharacterConfig = {
               return true;
             }
         };
-      },
-      heal() {
-        let gener = null;
-        this.abilities.heal = () => {
-          const that = this;
-          if (!gener) {
-            function* generateSequence() {
-              that.save();
-              while (!that.actions.shamanDance()) {
-                yield;
-              }
-              that.restore();
-              that.state.currHealth += 25;
-              if (that.state.currHealth > that.state.health) that.state.currHealth = that.state.health;
-            }
-            gener = generateSequence();
-          } else if (gener.next().done) {
-              gener = null;
-              return true;
-            }
-        };
+        this.abilities.kickAttack.caption = 'KICK';
       },
     },
   },
