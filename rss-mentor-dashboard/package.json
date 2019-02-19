@@ -1,41 +1,32 @@
 {
   "name": "rss-mentor-dashboard",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://grnkvch.github.io/rss-mentor-dashboard",
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-scripts": "2.1.5",
+    "react-select": "^2.4.0",
+    "uniqid": "^5.0.3",
+    "xlsx": "^0.14.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --open",
-    "whatch": "webpack --whatch",
-    "build": "webpack"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "parse": "node ./src/xlsxParser.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rolling-scopes-school/grnkvch-2018Q3.git"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "author": "Grinkevich V.V.",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rolling-scopes-school/grnkvch-2018Q3/issues"
-  },
-  "homepage": "https://github.com/rolling-scopes-school/grnkvch-2018Q3#readme",
-  "devDependencies": {
-    "@babel/core": "^7.1.6",
-    "@babel/generator": "^7.2.2",
-    "@babel/preset-env": "^7.1.6",
-    "babel": "^6.23.0",
-    "babel-cli": "^6.26.0",
-    "babel-loader": "^8.0.4",
-    "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-polyfill": "^6.0.16",
-    "css-loader": "^2.1.0",
-    "eslint": "^5.9.0",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "file-loader": "^3.0.1",
-    "style-loader": "^0.23.1",
-    "webpack": "^4.26.0",
-    "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.10"
-  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

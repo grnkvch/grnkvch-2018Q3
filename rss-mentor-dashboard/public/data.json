@@ -1,0 +1,2793 @@
+{
+  "mentors": {
+    "aliaksandrzahorski": {
+      "bmvmarc": {
+        "Markup #1": 80,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"DOM, DOM Events\"": 80,
+        "YouTube": 70,
+        "Code Jam \"Scoreboard\"": 85
+      }
+    },
+    "lipskiy-aleh": {
+      "agentumbrella": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 68,
+        "Code Jam \"DOM, DOM Events\"": 75,
+        "Presentation": 120
+      },
+      "devandscorp": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 50,
+        "Presentation": 120
+      },
+      "lexbogos": {
+        "Code Jam \"CV\"": 83,
+        "Code Jam \"CoreJS\"": 30,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "Presentation": 100
+      }
+    },
+    "helenegritsuk": {
+      "devildummy": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 115,
+        "Markup #1": 99,
+        "Presentation": 120,
+        "Code Jam \"DOM, DOM Events\"": 97,
+        "Code Jam \"Scoreboard\"": 130
+      },
+      "dzmitry-karachun-1987": {
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"CoreJS\"": 85,
+        "Markup #1": 90
+      },
+      "serg8": {
+        "Code Jam \"CV\"": 96,
+        "Code Jam \"CoreJS\"": 65,
+        "Markup #1": 95,
+        "Presentation": 120,
+        "Code Jam \"DOM, DOM Events\"": 92,
+        "Code Jam \"Scoreboard\"": 65
+      }
+    },
+    "papialoushka": {},
+    "shuspes": {
+      "sergeyskakun": {
+        "Code Jam \"CoreJS\"": 76,
+        "Code Jam \"DOM, DOM Events\"": 97,
+        "YouTube": 27,
+        "Code Jam \"Scoreboard\"": 38
+      },
+      "aliaksandrposakh": {
+        "Code Jam \"DOM, DOM Events\"": 29,
+        "Markup #1": 30,
+        "Presentation": 110,
+        "Code Jam \"Scoreboard\"": 5,
+        "YouTube": 18
+      }
+    },
+    "kukolcaalexandra": {
+      "ingvaroldd": {
+        "Code Jam \"CoreJS\"": 93,
+        "Code Jam \"CV\"": 77
+      },
+      "fantom141": {
+        "Code Jam \"CoreJS\"": 85,
+        "Code Jam \"CV\"": 94
+      },
+      "samo-war": {
+        "Code Jam \"CoreJS\"": 85,
+        "Code Jam \"CV\"": 90
+      }
+    },
+    "amelk9n": {
+      "vitalur": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 94,
+        "Markup #1": 75,
+        "YouTube": 20,
+        "Presentation": 90,
+        "Code Jam \"Scoreboard\"": 95
+      },
+      "jrzlve": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 105,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 79,
+        "YouTube": 40,
+        "Presentation": 120
+      },
+      "panikutysh": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 0
+      }
+    },
+    "famchankou": {},
+    "remapasov": {
+      "frol8612": {
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 100
+      },
+      "snowwe": {
+        "Markup #1": 58,
+        "Code Jam \"DOM, DOM Events\"": 90
+      }
+    },
+    "aliaksandrfiodarau": {
+      "burach0k": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 85
+      },
+      "denyingthetruth": {
+        "Code Jam \"CV\"": 98,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 90
+      },
+      "khaliulinroman": {
+        "Code Jam \"CV\"": 55,
+        "Code Jam \"CoreJS\"": 65,
+        "Markup #1": 20,
+        "Code Jam \"DOM, DOM Events\"": 100
+      }
+    },
+    "mkinitcpio": {
+      "slayer110": {
+        "Code Jam \"CoreJS\"": 0,
+        "Code Jam \"DOM, DOM Events\"": 65
+      },
+      "quiquek007": {
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"CoreJS\"": 105,
+        "Code Jam \"CV\"": 100,
+        "Presentation": 120,
+        "YouTube": 110,
+        "RS Activist": 25,
+        "Code Jam \"Scoreboard\"": 100
+      },
+      "mohax-13": {
+        "Code Jam \"DOM, DOM Events\"": 70
+      },
+      "ksenia-ok": {
+        "Code Jam \"CoreJS\"": 0,
+        "Code Jam \"DOM, DOM Events\"": 0
+      },
+      "artsiom-zhuk": {
+        "Code Jam \"CoreJS\"": 70,
+        "Code Jam \"DOM, DOM Events\"": 90
+      }
+    },
+    "denisbun": {
+      "kvinto1986": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 115,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Presentation": 120
+      },
+      "maksimaliakhnovich": {
+        "Markup #1": 65,
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 95
+      },
+      "yauheni23": {
+        "Code Jam \"CV\"": 70,
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 70,
+        "YouTube": 65
+      }
+    },
+    "sleepwalky": {
+      "noviceblunderer": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 83,
+        "Code Jam \"DOM, DOM Events\"": 90
+      },
+      "katrin-kot": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 55,
+        "Presentation": 115
+      },
+      "gattygamaun": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 65,
+        "Presentation": 120,
+        "Code Jam \"DOM, DOM Events\"": 67
+      },
+      "mariyapolt": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Presentation": 120,
+        "Code Jam \"DOM, DOM Events\"": 80
+      }
+    },
+    "quantum-noise": {
+      "803142": {
+        "Code Jam \"CV\"": 70,
+        "Code Jam \"CoreJS\"": 55,
+        "Markup #1": 55,
+        "YouTube": 20
+      },
+      "0riac": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 105,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "Markup #1": 90,
+        "YouTube": 120
+      },
+      "nickitasolovei": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 80,
+        "YouTube": 70,
+        "Code Jam \"Scoreboard\"": 65,
+        "Presentation": 90
+      }
+    },
+    "aliaksandrkrasnou": {
+      "andrey-lobach": {
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "Code Jam \"CV\"": 90
+      },
+      "alexandravlasenko": {
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 75
+      },
+      "painincoming": {
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"CV\"": 100
+      }
+    },
+    "aliaksandrkuzniatsou": {
+      "apivovarchik": {
+        "Markup #1": 10,
+        "Code Jam \"DOM, DOM Events\"": 5
+      }
+    },
+    "aliaksandrmamonenka": {
+      "dasnein": {
+        "Markup #1": 95,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100
+      }
+    },
+    "alexno": {
+      "kir-22": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 77,
+        "Markup #1": 83,
+        "Code Jam \"DOM, DOM Events\"": 91,
+        "YouTube": 110
+      },
+      "snaiperlod": {
+        "Code Jam \"CV\"": 60,
+        "Code Jam \"CoreJS\"": 53
+      },
+      "llitrixkod": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 105,
+        "Markup #1": 64,
+        "Code Jam \"DOM, DOM Events\"": 99,
+        "YouTube": 100
+      }
+    },
+    "razumovich": {},
+    "rudikaleksandr": {
+      "psevkin": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 0,
+        "Code Jam \"DOM, DOM Events\"": 100
+      },
+      "spiritforest": {
+        "Code Jam \"CV\"": 96,
+        "Code Jam \"CoreJS\"": 102,
+        "Markup #1": 79,
+        "Code Jam \"DOM, DOM Events\"": 97,
+        "YouTube": 11,
+        "Presentation": 110
+      },
+      "chekni": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 0,
+        "Code Jam \"DOM, DOM Events\"": 87,
+        "Markup #1": 26
+      }
+    },
+    "aliaksandrt": {
+      "shutya": {
+        "Markup #1": 45
+      }
+    },
+    "alex-zayats": {
+      "uniorunr": {
+        "Markup #1": 78,
+        "Code Jam \"DOM, DOM Events\"": 95
+      },
+      "melllivoracapensis": {
+        "Markup #1": 67,
+        "Code Jam \"DOM, DOM Events\"": 80
+      },
+      "soulshaker": {
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 100
+      }
+    },
+    "tr3v3r": {
+      "nadinaaa": {
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "Markup #1": 50,
+        "Code Jam \"CV\"": 95
+      },
+      "grnkvch": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 100,
+        "Presentation": 120
+      }
+    },
+    "fallenby1": {
+      "katepavlovich": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120
+      },
+      "youngbrick": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120
+      },
+      "alekengineer": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 60
+      },
+      "kottt4": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 80
+      }
+    },
+    "aliakseikrauchanka": {
+      "latiertiw": {
+        "Code Jam \"CV\"": 66,
+        "Code Jam \"CoreJS\"": 103,
+        "Markup #1": 74,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 70,
+        "Code Jam \"Scoreboard\"": 0
+      }
+    },
+    "muskos": {
+      "vireah": {
+        "Code Jam \"CV\"": 50,
+        "Code Jam \"CoreJS\"": 50,
+        "Markup #1": 45
+      },
+      "alexandrtichon": {
+        "Code Jam \"CV\"": 25,
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "Code Jam \"Scoreboard\"": 60,
+        "YouTube": 70
+      },
+      "yanyan155": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 95
+      },
+      "pkutsilina": {
+        "Code Jam \"CoreJS\"": 90
+      }
+    },
+    "alex-mnsk": {
+      "kozyritskiy": {
+        "Markup #1": 90,
+        "Code Jam \"CV\"": 50,
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "YouTube": 65,
+        "Presentation": 100,
+        "Code Jam \"Scoreboard\"": 5
+      },
+      "nastyalo": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 85,
+        "YouTube": 50,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 75
+      }
+    },
+    "anastasiaprivalova": {
+      "sergaunt": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100
+      },
+      "brateckrolikstudent": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 95
+      }
+    },
+    "yganda": {},
+    "clainatomi-zero": {},
+    "lenkouandrei": {
+      "goner52": {
+        "Markup #1": 10,
+        "Code Jam \"DOM, DOM Events\"": 12
+      },
+      "poyuki": {
+        "Code Jam \"CV\"": 88,
+        "Code Jam \"CoreJS\"": 61,
+        "Markup #1": 64,
+        "YouTube": 78
+      },
+      "rafchillons": {
+        "Code Jam \"CV\"": 60,
+        "Code Jam \"CoreJS\"": 47
+      },
+      "kirylalexandrovich": {
+        "Code Jam \"CV\"": 96,
+        "Code Jam \"CoreJS\"": 103,
+        "Markup #1": 64,
+        "Code Jam \"DOM, DOM Events\"": 73,
+        "YouTube": 57,
+        "Presentation": 90
+      }
+    },
+    "liaukou": {
+      "dimasquared": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 0
+      },
+      "ol4ash": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 10,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 75
+      },
+      "kasper1999": {
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"CoreJS\"": 0,
+        "Markup #1": 98,
+        "Code Jam \"DOM, DOM Events\"": 90
+      }
+    },
+    "themarkmarrone": {
+      "juliamv": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 80,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 80
+      },
+      "icebergnevercries": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 105,
+        "Markup #1": 0,
+        "Code Jam \"DOM, DOM Events\"": 70
+      }
+    },
+    "apalchys": {
+      "ton9q": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 95,
+        "Code Jam \"CV\"": 100,
+        "YouTube": 99,
+        "Code Jam \"Scoreboard\"": 95
+      },
+      "nktvlkvch": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 45,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 70
+      }
+    },
+    "manuminsk": {
+      "zm1try": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 125,
+        "Presentation": 90,
+        "Code Jam \"Scoreboard\"": 100
+      },
+      "kirill82": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 50,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 30,
+        "Presentation": 120
+      }
+    },
+    "atzkdeff": {
+      "lazouskikiryl": {
+        "Code Jam \"CV\"": 90,
+        "Markup #1": 36
+      },
+      "dimabog22": {
+        "Code Jam \"CV\"": 82,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 55
+      },
+      "bigshaqmnh": {
+        "Code Jam \"CV\"": 50,
+        "Code Jam \"CoreJS\"": 80,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 50,
+        "Presentation": 120,
+        "YouTube": 65
+      }
+    },
+    "andrei-zhuk": {
+      "torchik-slava": {
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"CoreJS\"": 95
+      },
+      "antihero": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 40,
+        "RS Activist": 25,
+        "Markup #1": 83,
+        "Code Jam \"DOM, DOM Events\"": 63
+      },
+      "kirillzavorotni": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 80,
+        "Markup #1": 93,
+        "Code Jam \"DOM, DOM Events\"": 80
+      },
+      "makar1227": {
+        "Code Jam \"CV\"": 97,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 78,
+        "Code Jam \"DOM, DOM Events\"": 85
+      },
+      "mudreuski": {
+        "Code Jam \"CV\"": 97,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 87
+      },
+      "artkon": {
+        "Code Jam \"CV\"": 98
+      }
+    },
+    "rianby64": {
+      "yaroslav-mig": {
+        "Markup #1": 70,
+        "Code Jam \"CoreJS\"": 60,
+        "Code Jam \"DOM, DOM Events\"": 76
+      },
+      "novikovantony": {
+        "Markup #1": 100,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 135,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 65
+      },
+      "mayblackwood": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 95,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 90
+      }
+    },
+    "toshabely": {
+      "arkhipenka": {
+        "Markup #1": 35,
+        "YouTube": 5
+      },
+      "abespolov": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 100
+      },
+      "dimaspivas": {
+        "Code Jam \"CoreJS\"": 91
+      }
+    },
+    "asharapa": {
+      "alexanderkononok": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 40
+      },
+      "mrmars20": {
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 85
+      }
+    },
+    "stpnvntn": {
+      "metalhammer4": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 88
+      },
+      "ostik266": {
+        "Code Jam \"CoreJS\"": 10,
+        "Code Jam \"CV\"": 0,
+        "Markup #1": 47,
+        "Code Jam \"DOM, DOM Events\"": 75
+      },
+      "katekosushkina": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 85
+      }
+    },
+    "a-yatskevich": {
+      "mrdreaml": {
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Code Jam \"Scoreboard\"": 30,
+        "Presentation": 120,
+        "YouTube": 85
+      },
+      "tsypolina": {
+        "Code Jam \"CoreJS\"": 85,
+        "Markup #1": 88,
+        "Code Jam \"DOM, DOM Events\"": 99,
+        "Presentation": 120
+      },
+      "evgeniy121": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 95,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 95
+      },
+      "jadgptw": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 135,
+        "Code Jam \"Scoreboard\"": 130,
+        "Presentation": 120
+      }
+    },
+    "mustafazadear": {
+      "credov": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 55,
+        "Markup #1": 60
+      },
+      "dbaceko": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 80,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 0
+      },
+      "frontsideman": {
+        "Code Jam \"CV\"": 65,
+        "Code Jam \"CoreJS\"": 75,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 95
+      }
+    },
+    "arhigod": {
+      "nastya-ropot": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "Markup #1": 70,
+        "YouTube": 10,
+        "Presentation": 90
+      },
+      "mozgoen": {
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 84,
+        "YouTube": 97,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 123
+      },
+      "hellsingi": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 50,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 75,
+        "YouTube": 90,
+        "Presentation": 100,
+        "Code Jam \"Scoreboard\"": 63
+      },
+      "polotenchik": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 89,
+        "YouTube": 83,
+        "Code Jam \"Scoreboard\"": 95
+      }
+    },
+    "ahaurylin": {
+      "olgaluk": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 80,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 115,
+        "Code Jam \"Scoreboard\"": 95
+      }
+    },
+    "xeontem": {
+      "vvikota": {
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"CoreJS\"": 60,
+        "Code Jam \"DOM, DOM Events\"": 80,
+        "Presentation": 120,
+        "Markup #1": 80,
+        "YouTube": 75
+      },
+      "mariakisel": {
+        "Code Jam \"CV\"": 60,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 50,
+        "Presentation": 100
+      },
+      "qxfisher": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 140,
+        "Presentation": 100
+      }
+    },
+    "artemlatyshev": {
+      "sergeiobolevich": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 90
+      },
+      "magi-a": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 70,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 80,
+        "Presentation": 80
+      },
+      "andrewyanushkevich": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 45,
+        "Code Jam \"DOM, DOM Events\"": 70
+      }
+    },
+    "lykovartem": {
+      "segrey1989": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 55,
+        "Markup #1": 63,
+        "Code Jam \"DOM, DOM Events\"": 105,
+        "YouTube": 90,
+        "Presentation": 95
+      }
+    },
+    "lithiumfallen": {
+      "sunrisekovalevski": {
+        "Code Jam \"CV\"": 45,
+        "Code Jam \"CoreJS\"": 45,
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 93,
+        "YouTube": 40,
+        "Presentation": 90
+      },
+      "spacebrains": {
+        "Code Jam \"CV\"": 70,
+        "Code Jam \"CoreJS\"": 50,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 85
+      },
+      "pincherinka": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 50
+      },
+      "victoriathebrave": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 125,
+        "Presentation": 110,
+        "Code Jam \"Scoreboard\"": 105
+      }
+    },
+    "xelsoid": {
+      "usermeme": {
+        "Code Jam \"CoreJS\"": 105,
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 63,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 65
+      },
+      "nikaz123": {
+        "Code Jam \"CoreJS\"": 85,
+        "Code Jam \"CV\"": 85,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 85,
+        "Presentation": 120
+      }
+    },
+    "arturminsksum": {
+      "rebellix": {
+        "Code Jam \"CV\"": 92,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 98,
+        "Code Jam \"DOM, DOM Events\"": 98,
+        "YouTube": 93,
+        "Presentation": 120
+      }
+    },
+    "agentkb": {
+      "dzmitrybabak": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 85,
+        "Markup #1": 60,
+        "Code Jam \"DOM, DOM Events\"": 85
+      },
+      "systemghost": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 100,
+        "Presentation": 110,
+        "Code Jam \"Scoreboard\"": 90
+      },
+      "eugenetime": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 55
+      },
+      "ivanchikovvalentin": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 80,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 85
+      },
+      "ewelai": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 60,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 85
+      }
+    },
+    "barysmarukhin": {
+      "kirillgalimov": {
+        "Code Jam \"CoreJS\"": 65,
+        "Code Jam \"CV\"": 80,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 95
+      },
+      "igor-provotorov": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 95
+      },
+      "kamatozzzik": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 105,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 90
+      }
+    },
+    "sulemanof": {
+      "heaveek": {
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 48
+      },
+      "olegsabodash": {
+        "Code Jam \"CV\"": 60,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 37,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "YouTube": 35,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 75
+      },
+      "meearlyam": {
+        "Code Jam \"CV\"": 50,
+        "Code Jam \"CoreJS\"": 50
+      }
+    },
+    "bezakdenis": {
+      "dsv-sergey": {
+        "Code Jam \"CoreJS\"": 110
+      },
+      "alexalizurchik": {
+        "Code Jam \"CV\"": 100
+      },
+      "pavellyolya": {
+        "Code Jam \"CoreJS\"": 105,
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 87,
+        "Code Jam \"DOM, DOM Events\"": 100
+      }
+    },
+    "den-bozhyk": {
+      "vladesco": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 95,
+        "YouTube": 120,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 140
+      },
+      "drdiman": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"CoreJS\"": 70,
+        "Markup #1": 70,
+        "YouTube": 80,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 100
+      }
+    },
+    "shank111": {
+      "kirillfilipp": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 85,
+        "Markup #1": 60,
+        "Code Jam \"DOM, DOM Events\"": 20
+      },
+      "gemsgame": {
+        "Markup #1": 50,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "Code Jam \"CoreJS\"": 50,
+        "Code Jam \"CV\"": 80
+      },
+      "nemkev": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 60,
+        "Code Jam \"Scoreboard\"": 60,
+        "Presentation": 110
+      }
+    },
+    "ximet": {
+      "christopher-0118": {
+        "Code Jam \"DOM, DOM Events\"": 35,
+        "Code Jam \"CoreJS\"": 0
+      },
+      "happy-mary": {
+        "Markup #1": 96,
+        "Code Jam \"DOM, DOM Events\"": 75,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"CV\"": 95
+      },
+      "igorbyl": {
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"CV\"": 93,
+        "Code Jam \"CoreJS\"": 87
+      },
+      "maksyermak": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 30
+      }
+    },
+    "denisdashkevich": {
+      "alexeykuril0": {
+        "Code Jam \"CoreJS\"": 80,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 40,
+        "Presentation": 120
+      },
+      "andreisavelyev": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 85,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 110,
+        "Code Jam \"Scoreboard\"": 60,
+        "Presentation": 120
+      }
+    },
+    "dpryshchep": {
+      "kira2023": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 70,
+        "Markup #1": 96,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 80
+      },
+      "vvsvintsitsky": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 110
+      },
+      "kiryllapouski": {
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 60,
+        "Code Jam \"DOM, DOM Events\"": 90
+      }
+    },
+    "dzianisreznik": {
+      "heat98": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 100,
+        "Presentation": 110
+      },
+      "egorgorbik": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "Presentation": 110
+      },
+      "vicrodzko": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 100,
+        "Presentation": 120,
+        "YouTube": 129
+      },
+      "ilyatrat": {
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 100,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120,
+        "Presentation": 110
+      },
+      "unbelievablysmart": {
+        "Code Jam \"CoreJS\"": 60,
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 95
+      }
+    },
+    "davojta": {
+      "pavalescoba": {
+        "Markup #1": 100,
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Presentation": 120,
+        "YouTube": 85
+      },
+      "lesechka": {
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 80,
+        "Code Jam \"CV\"": 85,
+        "Presentation": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 60
+      },
+      "vasiliyrepin": {
+        "Code Jam \"DOM, DOM Events\"": 45,
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 31,
+        "Presentation": 120,
+        "Markup #1": 38,
+        "Code Jam \"Scoreboard\"": 60
+      },
+      "mike80by": {
+        "Markup #1": 88,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 64,
+        "Code Jam \"CoreJS\"": 91,
+        "YouTube": 118,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 98
+      },
+      "victorbelikov": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 110,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 130
+      },
+      "auseika": {
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 100,
+        "YouTube": 120,
+        "RS Activist": 50,
+        "Presentation": 115,
+        "Code Jam \"Scoreboard\"": 85
+      },
+      "iharpadbiarezski": {
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 99,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 85
+      }
+    },
+    "shutya": {
+      "waldemar999": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"DOM, DOM Events\"": 45
+      },
+      "aliakseibabko": {
+        "Code Jam \"CoreJS\"": 48,
+        "Code Jam \"DOM, DOM Events\"": 83,
+        "Presentation": 110
+      },
+      "gleb7raul": {
+        "Code Jam \"CV\"": 98,
+        "Code Jam \"CoreJS\"": 80,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 100,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 85
+      }
+    },
+    "sushchenja": {
+      "nightman20104": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 10
+      },
+      "irin-ka": {
+        "Code Jam \"CV\"": 87,
+        "Code Jam \"CoreJS\"": 95,
+        "Code Jam \"DOM, DOM Events\"": 93,
+        "Markup #1": 78,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 70,
+        "YouTube": 60
+      },
+      "daniil-loban": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"DOM, DOM Events\"": 99,
+        "Markup #1": 83,
+        "RS Activist": 100,
+        "Presentation": 110,
+        "YouTube": 112
+      }
+    },
+    "alidzm": {
+      "devbarden": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 100,
+        "YouTube": 130,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 110
+      },
+      "nicklevkovich": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 83,
+        "Markup #1": 73,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 78,
+        "Presentation": 120
+      },
+      "poiskull": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 70
+      },
+      "mrio1": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 17
+      },
+      "dmsomov": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110
+      }
+    },
+    "sintet": {
+      "aspowerr": {
+        "Code Jam \"CV\"": 83,
+        "Code Jam \"CoreJS\"": 93,
+        "Markup #1": 84,
+        "Presentation": 120,
+        "YouTube": 60
+      }
+    },
+    "dzmitry-chuchva": {
+      "scarletcamomile": {
+        "Code Jam \"CoreJS\"": 0,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 65
+      },
+      "tani4ik": {
+        "Code Jam \"CoreJS\"": 105,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 97,
+        "Code Jam \"DOM, DOM Events\"": 95
+      }
+    },
+    "falizyer": {
+      "basch1727": {
+        "Code Jam \"DOM, DOM Events\"": 50,
+        "Markup #1": 70
+      },
+      "estel1591": {
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 100,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 100
+      }
+    },
+    "linus2228": {
+      "sergeybaranovichi": {
+        "Code Jam \"CV\"": 20,
+        "Code Jam \"CoreJS\"": 10,
+        "Markup #1": 0,
+        "Code Jam \"DOM, DOM Events\"": 0
+      },
+      "arturkudlo": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 80,
+        "YouTube": 110,
+        "Code Jam \"Scoreboard\"": 65,
+        "Presentation": 120
+      },
+      "dimasofff": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 0,
+        "Markup #1": 0,
+        "Code Jam \"DOM, DOM Events\"": 0
+      }
+    },
+    "dzmitrypanamarenka": {
+      "stas4it": {
+        "Code Jam \"CoreJS\"": 70,
+        "Code Jam \"DOM, DOM Events\"": 95
+      },
+      "juliankov": {
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 110,
+        "Code Jam \"Scoreboard\"": 100,
+        "Presentation": 120,
+        "Markup #1": 60,
+        "Code Jam \"CV\"": 95
+      },
+      "niksrakevich": {
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Presentation": 100,
+        "YouTube": 130,
+        "Code Jam \"Scoreboard\"": 100,
+        "Markup #1": 50,
+        "Code Jam \"CV\"": 80
+      }
+    },
+    "diprudnikov": {
+      "siarheikresik": {
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 99,
+        "YouTube": 110,
+        "Presentation": 120
+      },
+      "mpot7": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"DOM, DOM Events\"": 50
+      }
+    },
+    "dmitryromaniuk": {
+      "2kevink": {
+        "Markup #1": 70,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 87,
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"Scoreboard\"": 100,
+        "YouTube": 90,
+        "Presentation": 90
+      },
+      "amoyt": {
+        "Markup #1": 65,
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"CV\"": 100
+      }
+    },
+    "sambl4": {
+      "simaxa7": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 94,
+        "YouTube": 115,
+        "RS Activist": 25,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 69
+      },
+      "polinamoiseyenko": {
+        "Code Jam \"CV\"": 87,
+        "Code Jam \"CoreJS\"": 104,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 75,
+        "YouTube": 86,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 86
+      }
+    },
+    "katya-sanko": {
+      "disa0808": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 60,
+        "Markup #1": 80
+      },
+      "pulya10c": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 60,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 75,
+        "YouTube": 90,
+        "Code Jam \"Scoreboard\"": 130,
+        "Presentation": 110
+      }
+    },
+    "elgrebenchuk": {
+      "andreiyasinski": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 90,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 75
+      },
+      "anton23kirienko": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Presentation": 120,
+        "YouTube": 110
+      }
+    },
+    "elenashokhanepam": {
+      "aborisenok": {
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"CV\"": 98,
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 110,
+        "Code Jam \"Scoreboard\"": 128,
+        "Presentation": 120
+      },
+      "valiantsinlopan": {
+        "Code Jam \"CoreJS\"": 60,
+        "Code Jam \"CV\"": 97,
+        "Markup #1": 89,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 80,
+        "Presentation": 100,
+        "Code Jam \"Scoreboard\"": 65
+      },
+      "egormiwa1": {
+        "Code Jam \"CoreJS\"": 102,
+        "Markup #1": 67,
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"DOM, DOM Events\"": 83,
+        "YouTube": 20,
+        "Code Jam \"Scoreboard\"": 0
+      }
+    },
+    "ivashkovaliza": {
+      "stationtostation": {
+        "Code Jam \"CoreJS\"": 55,
+        "Code Jam \"CV\"": 0,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 80,
+        "Presentation": 120
+      },
+      "tatsianacs": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 98,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 125,
+        "Presentation": 120,
+        "RS Activist": 75,
+        "Code Jam \"Scoreboard\"": 130
+      },
+      "kharuk": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 95,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 130
+      }
+    },
+    "annagrebenyuk": {
+      "yuliyahlukhatarenka": {
+        "Code Jam \"CV\"": 98,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"Scoreboard\"": 80,
+        "Presentation": 100
+      },
+      "dmitrylutskovich": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 20,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 95
+      }
+    },
+    "anik188": {
+      "horoshaya": {
+        "Code Jam \"CV\"": 93,
+        "Code Jam \"CoreJS\"": 98,
+        "RS Activist": 50,
+        "Markup #1": 77,
+        "Presentation": 120,
+        "YouTube": 95
+      },
+      "jeka98": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 99,
+        "Markup #1": 76
+      },
+      "renardby": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 103,
+        "RS Activist": 25,
+        "Markup #1": 72,
+        "Presentation": 90
+      },
+      "sergeyguchok": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 83,
+        "Markup #1": 82,
+        "Presentation": 120,
+        "YouTube": 75
+      },
+      "aytsan": {
+        "Code Jam \"CoreJS\"": 0,
+        "Code Jam \"CV\"": 75,
+        "Markup #1": 82
+      }
+    },
+    "sijlver": {
+      "metre-ray": {
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 94,
+        "YouTube": 125,
+        "Code Jam \"Scoreboard\"": 130
+      }
+    },
+    "ilyalisitsin": {
+      "meller96": {
+        "Code Jam \"CoreJS\"": 30,
+        "Code Jam \"CV\"": 75
+      },
+      "ogurez": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 40,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 75,
+        "YouTube": 70,
+        "Presentation": 100
+      },
+      "mrlapka": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 80,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 55,
+        "YouTube": 50,
+        "Presentation": 110,
+        "Code Jam \"Scoreboard\"": 25
+      },
+      "amoebiusss": {
+        "Code Jam \"CoreJS\"": 115,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "RS Activist": 25,
+        "YouTube": 140,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 100
+      }
+    },
+    "amsterget": {
+      "tebeskashi": {
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 75,
+        "Presentation": 70,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 42
+      },
+      "pinkrefugee": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 95,
+        "Presentation": 120,
+        "Code Jam \"DOM, DOM Events\"": 97,
+        "Code Jam \"Scoreboard\"": 130,
+        "YouTube": 111
+      },
+      "tomsssm": {
+        "Code Jam \"CoreJS\"": 45,
+        "Markup #1": 85
+      },
+      "colambus13": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 35,
+        "Markup #1": 70
+      }
+    },
+    "kbirulia": {
+      "katiar": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 85,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 80,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 65
+      }
+    },
+    "katekaranets": {
+      "kozelkoff": {
+        "Code Jam \"CV\"": 95
+      },
+      "sokol147": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 50,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 80,
+        "Presentation": 110
+      },
+      "natiedei": {
+        "Code Jam \"CV\"": 95
+      },
+      "aliaksandrarybak": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 94,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Presentation": 120
+      }
+    },
+    "etatarinovich18": {
+      "kaleniksasha": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 0,
+        "Markup #1": 85
+      },
+      "ue4prog": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 0,
+        "Markup #1": 46,
+        "Code Jam \"DOM, DOM Events\"": 15
+      },
+      "alexshumansky": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "RS Activist": 25,
+        "Code Jam \"Scoreboard\"": 100
+      }
+    },
+    "kirillpanov": {
+      "helpthewalrus": {
+        "Code Jam \"CV\"": 83,
+        "Code Jam \"CoreJS\"": 86
+      },
+      "aliaksandrlosich": {
+        "Code Jam \"CV\"": 68,
+        "Code Jam \"CoreJS\"": 73,
+        "Markup #1": 72,
+        "Presentation": 80
+      },
+      "uivgray": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 109,
+        "Markup #1": 50
+      }
+    },
+    "cyrilshalyapin": {
+      "kulinar310": {
+        "Markup #1": 99
+      },
+      "cropotan": {
+        "Markup #1": 70
+      },
+      "philipsh": {
+        "Markup #1": 40
+      },
+      "vladsemenik": {
+        "Markup #1": 91
+      }
+    },
+    "kvtofan": {
+      "brokorenko": {
+        "Code Jam \"DOM, DOM Events\"": 55
+      },
+      "hentmire": {
+        "Code Jam \"CoreJS\"": 70,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 65,
+        "Presentation": 120
+      },
+      "rubahaguy": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "YouTube": 90
+      }
+    },
+    "klim711": {
+      "vladqqqqoo": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 50,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 90
+      }
+    },
+    "predokmif": {
+      "belkacraft": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 80
+      },
+      "kasatka660": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 105,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 100
+      },
+      "warryr": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 70,
+        "Markup #1": 67,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 70,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 50
+      }
+    },
+    "kseniyasmorshchek": {
+      "yurychajkou": {
+        "Code Jam \"CoreJS\"": 57,
+        "Markup #1": 18
+      },
+      "catrieona": {
+        "Code Jam \"CoreJS\"": 85,
+        "Markup #1": 85,
+        "Code Jam \"CV\"": 95,
+        "Presentation": 110,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 120
+      },
+      "ankorbay": {
+        "Code Jam \"CoreJS\"": 84,
+        "Markup #1": 45,
+        "Code Jam \"CV\"": 85
+      }
+    },
+    "maryia-n-n": {
+      "crypto-kittensseller": {
+        "Code Jam \"CoreJS\"": 76,
+        "Code Jam \"CV\"": 80,
+        "Markup #1": 89,
+        "Presentation": 120
+      },
+      "dyadinmax": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 0
+      },
+      "alexeynovomlinets": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 106,
+        "Markup #1": 97,
+        "Presentation": 120
+      },
+      "antonysawyer": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 108,
+        "Markup #1": 69,
+        "Presentation": 120
+      }
+    },
+    "shparkivozhyk": {
+      "sburnt": {
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 75
+      },
+      "tserekhivan": {
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 80,
+        "Code Jam \"Scoreboard\"": 90,
+        "Presentation": 120
+      },
+      "presidentsboyfriend": {
+        "Code Jam \"CoreJS\"": 60,
+        "Code Jam \"CV\"": 90,
+        "Markup #1": 85
+      }
+    },
+    "nikkov17": {
+      "anastasiyanovikovag": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 50,
+        "Code Jam \"DOM, DOM Events\"": 75
+      },
+      "margaretmint": {
+        "Code Jam \"CV\"": 86,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 100
+      },
+      "anastasiyamazura": {
+        "Code Jam \"CV\"": 96,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 128,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 130
+      },
+      "exedystyle": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 81,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 87
+      },
+      "gaddyya": {
+        "Code Jam \"CV\"": 85,
+        "Code Jam \"CoreJS\"": 115,
+        "Markup #1": 78,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 102,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 125
+      }
+    },
+    "hirurgo": {
+      "xseniia": {
+        "Code Jam \"CV\"": 60,
+        "Code Jam \"CoreJS\"": 60,
+        "Code Jam \"DOM, DOM Events\"": 70,
+        "Markup #1": 80,
+        "YouTube": 20,
+        "Presentation": 100
+      },
+      "valeriyager": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 75,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 30,
+        "Presentation": 100,
+        "Code Jam \"Scoreboard\"": 100
+      }
+    },
+    "mikalai-sokarau": {
+      "f8b23lef": {
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 75,
+        "YouTube": 65,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 100
+      },
+      "yrapank": {
+        "Code Jam \"CoreJS\"": 35
+      }
+    },
+    "mikhaillu": {
+      "eugenepochenkov": {
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 55
+      },
+      "zetorby": {
+        "Markup #1": 92,
+        "Code Jam \"DOM, DOM Events\"": 50
+      }
+    },
+    "nikitarudy": {
+      "sad4itananda": {
+        "Code Jam \"DOM, DOM Events\"": 90
+      },
+      "kalitamih": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 60,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 125
+      },
+      "mrstalon": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 100,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "RS Activist": 25,
+        "YouTube": 110,
+        "Code Jam \"Scoreboard\"": 95,
+        "Presentation": 120
+      },
+      "haspadarz-padmensku": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 110,
+        "Code Jam \"Scoreboard\"": 60,
+        "Presentation": 120
+      }
+    },
+    "nsubbot": {
+      "eughene-cherepov": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 110,
+        "Presentation": 120
+      },
+      "moraviin": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 85,
+        "Presentation": 120
+      },
+      "petriken": {
+        "Code Jam \"CV\"": 94,
+        "Code Jam \"CoreJS\"": 58,
+        "Presentation": 120
+      },
+      "finnibyh": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 120,
+        "Presentation": 120
+      }
+    },
+    "ntrukhanovets": {
+      "evpodrezenko": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 90
+      },
+      "cruecer": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 80
+      },
+      "annchapon": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 55
+      }
+    },
+    "nikitzu": {
+      "xixex": {
+        "Code Jam \"CV\"": 60,
+        "Code Jam \"CoreJS\"": 100,
+        "YouTube": 55,
+        "Markup #1": 20,
+        "Code Jam \"DOM, DOM Events\"": 75
+      },
+      "mikhama": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 115,
+        "Markup #1": 100,
+        "YouTube": 130,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "RS Activist": 75,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 130
+      },
+      "angryivan": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"DOM, DOM Events\"": 92,
+        "Presentation": 110
+      }
+    },
+    "belousova-natallia": {
+      "garnich": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 60,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 75,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 10
+      },
+      "stigmatory15": {
+        "Markup #1": 90,
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 60,
+        "Code Jam \"DOM, DOM Events\"": 95
+      }
+    },
+    "natashanekazakova": {},
+    "nikolaiverbitskii": {
+      "shanhinpavel": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 80,
+        "Markup #1": 50,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 80,
+        "Presentation": 120
+      },
+      "igor82bv": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 80,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 55,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 65
+      }
+    },
+    "polinabobrovnik": {
+      "andvikvin": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 70,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "Markup #1": 40,
+        "YouTube": 60,
+        "Presentation": 110
+      },
+      "marry705": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 22,
+        "YouTube": 40,
+        "Presentation": 110
+      },
+      "fursaleksey": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 70,
+        "Code Jam \"DOM, DOM Events\"": 93,
+        "Markup #1": 40,
+        "YouTube": 65,
+        "Presentation": 100
+      }
+    },
+    "pavelglebov": {
+      "oaliona": {
+        "Code Jam \"CV\"": 99,
+        "Code Jam \"CoreJS\"": 70
+      },
+      "feodorius": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 70
+      },
+      "ihar777": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 40
+      },
+      "dzianiskavalionak": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 109,
+        "Markup #1": 88,
+        "Code Jam \"DOM, DOM Events\"": 93
+      },
+      "vbkoshak": {
+        "Code Jam \"CV\"": 92,
+        "Code Jam \"CoreJS\"": 107,
+        "Markup #1": 79,
+        "Code Jam \"DOM, DOM Events\"": 95
+      }
+    },
+    "pavelkuzniatsou": {
+      "kotcher1": {
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 100
+      },
+      "kirilltovpinets": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 70,
+        "Markup #1": 57,
+        "Code Jam \"DOM, DOM Events\"": 100
+      }
+    },
+    "tibmt": {
+      "danteboom": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 15
+      }
+    },
+    "pavelzaletski": {
+      "andddrews": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 42,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 58,
+        "YouTube": 25,
+        "Presentation": 120
+      },
+      "bref987": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 65,
+        "Code Jam \"DOM, DOM Events\"": 72
+      },
+      "sergey496": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 98,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 120,
+        "Presentation": 110,
+        "Code Jam \"Scoreboard\"": 128
+      }
+    },
+    "lavitr": {
+      "mrdemonrush": {
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"CoreJS\"": 0,
+        "Code Jam \"DOM, DOM Events\"": 0,
+        "Markup #1": 0
+      },
+      "nikitaklepanosov": {
+        "Code Jam \"CV\"": 50,
+        "Code Jam \"CoreJS\"": 40,
+        "Code Jam \"DOM, DOM Events\"": 0,
+        "Markup #1": 55
+      },
+      "provedenceva": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 0,
+        "Code Jam \"DOM, DOM Events\"": 0,
+        "Markup #1": 0
+      }
+    },
+    "korotkin": {},
+    "maximuk": {
+      "andrei-oksentyk": {
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "YouTube": 75,
+        "Code Jam \"Scoreboard\"": 100,
+        "Presentation": 120
+      },
+      "halaveika": {
+        "Code Jam \"CV\"": 85
+      },
+      "liodama": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 80,
+        "Markup #1": 60,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 80,
+        "Code Jam \"Scoreboard\"": 65,
+        "Presentation": 110,
+        "RS Activist": 25
+      },
+      "fyr-fyrrr": {
+        "Code Jam \"CoreJS\"": 60,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 50
+      },
+      "redgektor": {
+        "Code Jam \"CoreJS\"": 70,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 95
+      },
+      "alexdejko": {
+        "Code Jam \"CV\"": 85
+      },
+      "alenashkr": {
+        "Code Jam \"CoreJS\"": 30,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 80,
+        "YouTube": 50
+      }
+    },
+    "sergeyshatter": {
+      "cuppake": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 85,
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 92,
+        "YouTube": 107,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 100
+      },
+      "pirsfrommi6": {
+        "Code Jam \"CoreJS\"": 95,
+        "Code Jam \"CV\"": 0,
+        "RS Activist": 25,
+        "Markup #1": 90
+      },
+      "luffi2539": {
+        "Code Jam \"CoreJS\"": 65,
+        "Code Jam \"CV\"": 90,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "RS Activist": 25
+      },
+      "kirilltk": {
+        "Code Jam \"CoreJS\"": 110,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 100
+      }
+    },
+    "sergey-churilin": {
+      "gegorov": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "RS Activist": 25
+      },
+      "yurec0gurec": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 80,
+        "YouTube": 24,
+        "Code Jam \"Scoreboard\"": 60,
+        "Presentation": 84
+      },
+      "gubnich": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 70,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 70,
+        "YouTube": 100,
+        "Code Jam \"Scoreboard\"": 90,
+        "Presentation": 95
+      }
+    },
+    "pristavka": {
+      "jamadamur": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 40,
+        "Markup #1": 55,
+        "Code Jam \"DOM, DOM Events\"": 55,
+        "Presentation": 120
+      },
+      "dzhudzhi": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 70,
+        "Presentation": 120
+      }
+    },
+    "tanya-bakhmatovich": {
+      "fogfug1": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 65,
+        "Markup #1": 65
+      },
+      "dmitrigorchanin": {
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 75,
+        "Code Jam \"CV\"": 0
+      }
+    },
+    "stsepchanka": {
+      "rick42morty": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 94,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 100,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 95
+      }
+    },
+    "forkollaider": {
+      "zhecha": {
+        "Markup #1": 42,
+        "Code Jam \"DOM, DOM Events\"": 70
+      }
+    },
+    "vinfinit": {
+      "mikhailnakanechny": {
+        "Code Jam \"DOM, DOM Events\"": 96,
+        "Markup #1": 59,
+        "Presentation": 95,
+        "YouTube": 92
+      }
+    },
+    "einfachvlad": {
+      "aleksei-bulgak-study": {
+        "Code Jam \"CV\"": 93,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 52,
+        "Code Jam \"DOM, DOM Events\"": 97,
+        "RS Activist": 50,
+        "Presentation": 120,
+        "YouTube": 140,
+        "Code Jam \"Scoreboard\"": 130
+      },
+      "dyatelvudu": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 58,
+        "Markup #1": 45,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 60,
+        "YouTube": 75
+      }
+    },
+    "valeragorobets": {
+      "ivandubrouski": {
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"CV\"": 92
+      },
+      "olgakuksa": {
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 92,
+        "Code Jam \"Scoreboard\"": 60,
+        "Presentation": 100
+      }
+    },
+    "tomasspring": {
+      "annakolesnikova": {
+        "Code Jam \"CoreJS\"": 70,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 66,
+        "Code Jam \"DOM, DOM Events\"": 65,
+        "YouTube": 85
+      },
+      "eliendil": {
+        "Code Jam \"CoreJS\"": 40,
+        "Code Jam \"CV\"": 80,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "Presentation": 120
+      }
+    },
+    "viachaslau-latushkin": {
+      "alexandrasitnikova": {
+        "Code Jam \"CV\"": 70,
+        "Code Jam \"CoreJS\"": 40,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "Markup #1": 92
+      },
+      "vitalibrych333": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 84,
+        "Presentation": 120,
+        "YouTube": 125,
+        "Code Jam \"Scoreboard\"": 110
+      }
+    },
+    "woozzone": {
+      "bardashevich-matvei": {
+        "Code Jam \"CV\"": 40,
+        "Code Jam \"CoreJS\"": 0,
+        "Markup #1": 47,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 20
+      },
+      "yevgeniypy": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 30,
+        "Code Jam \"DOM, DOM Events\"": -1,
+        "Markup #1": 50,
+        "Presentation": 90
+      },
+      "tatyana-andreichyk": {
+        "Code Jam \"CV\"": 87,
+        "Code Jam \"CoreJS\"": 20,
+        "Markup #1": 87,
+        "Code Jam \"DOM, DOM Events\"": 57,
+        "YouTube": 30,
+        "Code Jam \"Scoreboard\"": 5
+      }
+    },
+    "viktoriyavorozhun": {
+      "mayinmarch": {
+        "Code Jam \"CV\"": 62,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 70
+      },
+      "christina-ilyushonok": {
+        "Code Jam \"CV\"": 90,
+        "Markup #1": 75,
+        "Code Jam \"CoreJS\"": 110
+      }
+    },
+    "elkinny": {
+      "kottanakor": {
+        "Code Jam \"CoreJS\"": 77,
+        "Markup #1": 55
+      },
+      "alenakharytonchyk": {
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 68,
+        "Code Jam \"CV\"": 95,
+        "Presentation": 120,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 110
+      },
+      "yonguksaram": {
+        "Code Jam \"CoreJS\"": 50,
+        "Markup #1": 20
+      }
+    },
+    "candentira": {
+      "zzvipz": {
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"CoreJS\"": 50,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 65,
+        "Presentation": 120
+      },
+      "dmitrylenko": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 78,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 75
+      },
+      "underdoglzd": {
+        "Code Jam \"CV\"": 99,
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 20
+      }
+    },
+    "viktoryiaverasava": {
+      "lowershotower": {
+        "Code Jam \"CoreJS\"": 95,
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 100
+      },
+      "zerovers": {
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 70,
+        "Code Jam \"DOM, DOM Events\"": 85,
+        "RS Activist": 50
+      }
+    },
+    "error404as": {
+      "robertiqk": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 120
+      },
+      "pozharitskiy": {
+        "Code Jam \"CV\"": 40,
+        "Code Jam \"CoreJS\"": 100,
+        "Markup #1": 60,
+        "YouTube": 30,
+        "Presentation": 100
+      },
+      "tarsupon": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 90,
+        "Markup #1": 60,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 75,
+        "Presentation": 120
+      }
+    },
+    "vladislavkovaliov": {},
+    "olgamardvilko": {
+      "georgyminsk": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 84,
+        "Code Jam \"DOM, DOM Events\"": 35
+      },
+      "greg1996": {
+        "Code Jam \"CoreJS\"": 10,
+        "Markup #1": 80
+      },
+      "goldenkit": {
+        "Code Jam \"CV\"": 80,
+        "Code Jam \"CoreJS\"": 30,
+        "Markup #1": 20,
+        "Code Jam \"DOM, DOM Events\"": 55
+      }
+    },
+    "olgapoddubko": {
+      "tanyasamal": {
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 100,
+        "Code Jam \"CoreJS\"": 108,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 130,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 130
+      },
+      "dimadk24": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 130,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 120
+      }
+    },
+    "naooki": {
+      "eveshad": {
+        "Code Jam \"CoreJS\"": 75,
+        "Code Jam \"CV\"": 95,
+        "Markup #1": 30,
+        "Code Jam \"DOM, DOM Events\"": 30
+      },
+      "mbulldozer": {
+        "Code Jam \"CoreJS\"": 105,
+        "Code Jam \"CV\"": 65,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 95,
+        "Code Jam \"Scoreboard\"": 95,
+        "Presentation": 100
+      },
+      "olgalazarevich": {
+        "Code Jam \"CoreJS\"": 90,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 65
+      }
+    },
+    "yanaselin": {
+      "bsiropchik": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 65,
+        "Markup #1": 94,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 85,
+        "Presentation": 95,
+        "Code Jam \"Scoreboard\"": 75
+      },
+      "scratchor": {
+        "Code Jam \"CV\"": 88,
+        "Code Jam \"CoreJS\"": 95,
+        "Markup #1": 82,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "YouTube": 65
+      },
+      "montes5": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 70
+      },
+      "mrspunki": {
+        "Code Jam \"CV\"": 60,
+        "Code Jam \"CoreJS\"": 70,
+        "Markup #1": 56,
+        "Code Jam \"DOM, DOM Events\"": 65
+      }
+    },
+    "yananeronskaya": {
+      "ilyay95": {
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"CV\"": 69,
+        "Markup #1": 62,
+        "Code Jam \"DOM, DOM Events\"": 86,
+        "YouTube": 57,
+        "Presentation": 110
+      },
+      "dekim12": {
+        "Code Jam \"CoreJS\"": 120,
+        "Code Jam \"CV\"": 100,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 100,
+        "Presentation": 120,
+        "RS Activist": 25
+      }
+    },
+    "yana95": {
+      "yana-bashtyk": {
+        "Code Jam \"CV\"": 91,
+        "Code Jam \"CoreJS\"": 72,
+        "Markup #1": 44,
+        "Code Jam \"DOM, DOM Events\"": 97,
+        "YouTube": 80,
+        "Presentation": 100
+      },
+      "olganaranovich": {
+        "Code Jam \"CV\"": 83,
+        "Code Jam \"CoreJS\"": 59,
+        "Markup #1": 75,
+        "YouTube": 90,
+        "Presentation": 90
+      }
+    },
+    "eugenech": {
+      "ivchenkopavel": {
+        "Code Jam \"CV\"": 50,
+        "Code Jam \"CoreJS\"": 70
+      },
+      "ruboscope": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 100,
+        "Code Jam \"DOM, DOM Events\"": 90,
+        "Markup #1": 85,
+        "YouTube": 20,
+        "Presentation": 100
+      },
+      "alesya-polovets": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 60,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 90
+      },
+      "geek10010": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 100,
+        "YouTube": 25,
+        "Code Jam \"Scoreboard\"": 50
+      },
+      "antonykor": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 80,
+        "YouTube": 140,
+        "Code Jam \"Scoreboard\"": 130,
+        "Presentation": 110
+      },
+      "saniok017": {
+        "Code Jam \"CV\"": 70,
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 75,
+        "Markup #1": 65,
+        "YouTube": 65,
+        "Presentation": 100
+      }
+    },
+    "evgeniigrh": {
+      "antonprotas": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 105,
+        "Markup #1": 90,
+        "Code Jam \"DOM, DOM Events\"": 90
+      },
+      "oconely": {
+        "Code Jam \"CV\"": 90
+      },
+      "iryna-mazura": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 95,
+        "Code Jam \"DOM, DOM Events\"": 98,
+        "YouTube": 140,
+        "RS Activist": 25,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 130
+      }
+    },
+    "evgladkiy": {
+      "evgenijkorob": {
+        "Code Jam \"CV\"": 90,
+        "Code Jam \"CoreJS\"": 95,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 0
+      },
+      "siarohin": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 50,
+        "Markup #1": 75,
+        "Code Jam \"DOM, DOM Events\"": 45,
+        "YouTube": 95,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 90
+      },
+      "svyatlo": {
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"CV\"": 65,
+        "Markup #1": 68,
+        "Code Jam \"DOM, DOM Events\"": 80,
+        "YouTube": 45,
+        "Presentation": 120,
+        "Code Jam \"Scoreboard\"": 10
+      }
+    },
+    "pasyukevich": {
+      "crunkagator": {
+        "Code Jam \"CV\"": 90
+      },
+      "alenabde": {
+        "Code Jam \"CV\"": 60,
+        "Code Jam \"CoreJS\"": 55
+      },
+      "maksimyakush": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 85,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "YouTube": 140,
+        "Presentation": 120
+      }
+    },
+    "yralko": {
+      "anna-pronovich": {
+        "Code Jam \"CV\"": 70,
+        "Code Jam \"DOM, DOM Events\"": 95,
+        "Markup #1": 70,
+        "Presentation": 120,
+        "Code Jam \"CoreJS\"": 110
+      },
+      "kseniyasokolovskaya": {
+        "Code Jam \"CV\"": 97,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 90,
+        "Code Jam \"CoreJS\"": 90
+      },
+      "zmichgen": {
+        "Code Jam \"CV\"": 83,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Markup #1": 70,
+        "Presentation": 80,
+        "Code Jam \"CoreJS\"": 110
+      }
+    },
+    "erutkovsky": {
+      "hecateenitharmon": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 79,
+        "Markup #1": 97
+      },
+      "mdgh": {
+        "Code Jam \"CV\"": 100,
+        "Code Jam \"CoreJS\"": 110,
+        "Markup #1": 99,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Presentation": 120,
+        "YouTube": 130
+      },
+      "soulos410": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 73,
+        "Markup #1": 70
+      },
+      "boshka0": {
+        "Code Jam \"CV\"": 99,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 99,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Presentation": 120,
+        "YouTube": 120,
+        "Code Jam \"Scoreboard\"": 100
+      }
+    },
+    "juliaalaeva": {
+      "pytniza": {
+        "Code Jam \"CV\"": 75,
+        "Code Jam \"CoreJS\"": 60,
+        "Markup #1": 35,
+        "Code Jam \"DOM, DOM Events\"": 70,
+        "YouTube": 5
+      },
+      "ronavea": {
+        "Markup #1": 94,
+        "Code Jam \"CV\"": 45,
+        "Code Jam \"CoreJS\"": 80,
+        "Code Jam \"DOM, DOM Events\"": 99,
+        "YouTube": 75,
+        "Code Jam \"Scoreboard\"": 0
+      }
+    },
+    "yuliahope": {},
+    "yulia9": {
+      "prometei299": {
+        "Code Jam \"CV\"": 0,
+        "Code Jam \"CoreJS\"": 70,
+        "Markup #1": 65,
+        "Code Jam \"DOM, DOM Events\"": 65,
+        "YouTube": 58,
+        "Presentation": 120
+      },
+      "zurzur": {
+        "Code Jam \"CV\"": 95,
+        "Code Jam \"CoreJS\"": 120,
+        "Markup #1": 93,
+        "Code Jam \"DOM, DOM Events\"": 100,
+        "Code Jam \"Scoreboard\"": 130
+      }
+    }
+  },
+  "tasks": {
+    "Code Jam \"CV\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
+      "status": "checked",
+      "orderIndex": 2
+    },
+    "Code Jam \"CoreJS\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-corejs.md",
+      "status": "checked",
+      "orderIndex": 3
+    },
+    "Code Jam \"DOM, DOM Events\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-notification.md",
+      "status": "checked",
+      "orderIndex": 4
+    },
+    "Markup #1": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md",
+      "status": "checking",
+      "orderIndex": 5
+    },
+    "YouTube": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md",
+      "status": "checking",
+      "orderIndex": 7
+    },
+    "Game": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/game.md",
+      "status": "inprogress",
+      "orderIndex": 9
+    },
+    "Course work": {
+      "link": "",
+      "status": "todo",
+      "orderIndex": 10
+    },
+    "RS Activist": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/rs-school-activist.md",
+      "status": "inprogress",
+      "orderIndex": 6
+    },
+    "Code Jam \"Scoreboard\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-scoreboard.md",
+      "status": "checking",
+      "orderIndex": 8
+    }
+  }
+}

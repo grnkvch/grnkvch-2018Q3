@@ -73,12 +73,15 @@ class App extends Component {
     const { selectedOption } = this.state;
     return (
       <div className="App">
-          <Select
+          
+        <div className="dashBoardContainer">
+        <Select
           value={selectedOption}
           onChange={this.handleChange}
           options={this.options}
         />
-        <Table data = {this.state.table} />
+          <Table data = {this.state.table} />
+        </div>
       </div>
     );
   }

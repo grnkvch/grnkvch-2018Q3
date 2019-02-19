@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+
+.App {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+
+.dashBoardContainer{
+  display: flex;
+  flex-direction: column;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+td:first-child, table a{
+  font-weight: bold;
+  color: rgb(49, 49, 49);
+}
+
+td, th {
+  border: 2px solid rgb(116, 116, 116);
+  height: 30px;
+  padding: 5px;
+}
+
+.checked {
+  background-color: #8AF64A;
+}
+
+.checkASAP {
+  background-color: #FF0000;
+}
+
+.checking {
+  background-color: #F64A8A;
+}
+
+.inprogress {
+  background-color: #FFFF00;
+}
+
+.todo {
+  background-color: #cccccc;
+}
+
+.legend {
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+  text-align: center;
+}
+
+
